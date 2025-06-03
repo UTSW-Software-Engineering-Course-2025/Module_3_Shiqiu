@@ -124,7 +124,7 @@ Students will progressively build and evaluate their system, applying software e
 #### 🕒 **Afternoon Session**
 | Time | Session | Instructor |
 |:-----|:--------|:-----------|
-| **2:00–3:00 PM** | ⚙️ **DevOps Concepts & Git Best Practices** (Lecture)<br/>• Git workflows (branching, merging, PRs)<br/>• Introduction to unit testing<br/>• Importance of modular design<br/>• *(Students apply Git to their Day 1 work post-lecture or start of Day 2 lab)* | Andrew |
+| **2:00–3:00 PM** | ⚙️ **DevOps Concepts & Git Best Practices** (Lecture)<br/>• Git workflows (branching, merging, PRs)<br/>• Introduction to unit testing<br/>• Importance of modular design<br/>• *(Students apply Git to their Day 1 work post-lecture or start of Day 2 lab)*<br/>• [📄 Lecture Slides](day1/DevOps_v1_02JUN2025.pdf) | Andrew |
 
 ---
 
