@@ -145,7 +145,7 @@ Students will progressively build and evaluate their system, applying software e
 #### 🕒 **Afternoon Session**
 | Time | Session | Instructor |
 |:-----|:--------|:-----------|
-| **3:00–4:00 PM** | 📈 **Advanced Evaluation Metrics & LLM-as-a-Judge Teaser** (Mini-Lecture)<br/>• Beyond exact match: fuzzy matching, semantic similarity (e.g., BERTscore)<br/>• Concept of LLM-as-a-judge for more nuanced evaluation | Mike |
+| **2:00–3:00 PM** | 📈 **Advanced Evaluation Metrics & LLM-as-a-Judge Teaser** (Mini-Lecture)<br/>• Beyond exact match: fuzzy matching, semantic similarity (e.g., BERTscore)<br/>• Concept of LLM-as-a-judge for more nuanced evaluation | Dave/Mike |
 
 ---
 
