@@ -113,7 +113,7 @@ Students will progressively build and evaluate their system, applying software e
 #### 🕘 **Morning Sessions**
 | Time | Session | Instructor |
 |:-----|:--------|:-----------|
-| **9:00–9:45 AM** | 📖 **Course Overview & LLM Fundamentals** (Lecture)<br/>• Broad overview of LLMs, key concepts, model landscape | Andrew |
+| **9:00–9:45 AM** | 📖 **Course Overview & LLM Fundamentals** (Lecture)<br/>• Broad overview of LLMs, key concepts, model landscape<br/>• [📊 Lecture Slides](https://gamma.app/docs/LLMOps-SWE-Intro-Lecture-1-June-2025-py134s14e8pgphw) | Andrew |
 | **9:45–10:30 AM** | 🚀 **Project Introduction & Day 1 Task: GeneTuring Test Harness** (Lecture/Demo)<br/>• Overall project vision: Biomedical Text Analysis Assistant<br/>• Day 1 Goal: Set up a test harness for the "GeneTuring" benchmark<br/>• Brief on basic evaluation (e.g., exact match for GeneTuring) & MLflow setup | Mike |
 
 #### 🔬 **Lab Session**
