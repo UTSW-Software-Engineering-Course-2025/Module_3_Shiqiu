@@ -9,6 +9,7 @@ A Quick tutorial to logging to mlflow
 """
 
 import argparse
+
 import mlflow
 from pydantic import AnyUrl
 
