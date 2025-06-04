@@ -15,7 +15,7 @@ from tqdm import tqdm
 os.environ["no_proxy"] = "*"
 load_dotenv()
 mlflow.set_tracking_uri("http://198.215.61.34:8153/")
-mlflow.set_experiment("s440708")
+mlflow.set_experiment("s440708_Shiqiu")
 
 AZURE_OPENAI_KEY = os.getenv("AZURE_OPENAI_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
@@ -217,7 +217,10 @@ def exact_match(pred: str, true: str) -> float:
     #     return float(true.strip().lower() in pred)
     # else:
     #     return float(pred.strip().lower() == true.strip().lower())
-    return float(pred.strip().lower() == true.strip().lower())
+    if pred.strip().lower() == true.strip().lower():
+        return 1.0
+    else:
+        return 0.0
 
 
 def gene_disease_association(pred: list[str], true: list[str]) -> float:
@@ -258,7 +261,7 @@ metric_task_map: Dict[str, MetricFunc] = defaultdict(
 )
 
 
-def get_answer(answer: str | list[str], task: str) -> str:
+def get_answer(answer: str | list[str], task: str) -> Union[str, list[str]]:
     mapper = {
         "Caenorhabditis elegans": "worm",
         "Homo sapiens": "human",
@@ -303,8 +306,6 @@ def get_answer(answer: str | list[str], task: str) -> str:
     else:
         answer = answer.strip().replace("Answer: ", "")
 
-    if isinstance(answer, list):
-        answer = answer[0]
     return answer
 
 
