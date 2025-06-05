@@ -30,18 +30,21 @@ repos:
     hooks:
       - id: mypy
         # rely on pyproject for flags; add requirements if needed
-        additional_dependencies: ["pydantic"] # e.g. ["pydantic"] if plugins need runtime deps
+        
+        additional_dependencies:
+        - types-requests
+        - pydantic  # e.g. ["pydantic"] if plugins need runtime deps
         # Optional args; leave blank if using pyproject.toml
         # args: ["--strict"]
 
-  - repo: https://github.com/hhatto/autopep8
-    rev: v2.3.2
-    hooks:
-    - id: autopep8
+  # - repo: https://github.com/hhatto/autopep8
+  #   rev: v2.3.2
+  #   hooks:
+  #   - id: autopep8
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
     rev: v0.4.6
     hooks:
       - id: ruff
         args: [--fix, --exit-non-zero-on-fix]
-      - id: ruff-format
+     
