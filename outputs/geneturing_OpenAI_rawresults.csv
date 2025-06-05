@@ -1,0 +1,3602 @@
+[
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of LMP10?",
+    "answer": "PSMB10",
+    "explanation": "LMP10 is a commonly used alias for the gene officially named PSMB10, which encodes a subunit of the immunoproteasome.",
+    "success": true,
+    "id": 0
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of SNAT6?",
+    "answer": "SLC38A6",
+    "explanation": "SNAT6 is a commonly used alias for the gene whose official symbol is SLC38A6, which stands for 'solute carrier family 38 member 6'.",
+    "success": true,
+    "id": 1
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of IMD20?",
+    "answer": "COX10",
+    "explanation": "IMD20 is an alias for the gene COX10, which is associated with mitochondrial complex IV deficiency, nuclear type 20 (IMD20).",
+    "success": true,
+    "id": 2
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of C20orf195?",
+    "answer": "TMEM230",
+    "explanation": "C20orf195 is an alias for the gene now officially named TMEM230 (transmembrane protein 230) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 3
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of CXorf40B?",
+    "answer": "FAM19A4",
+    "explanation": "CXorf40B is an alias for the gene officially named FAM19A4 according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 4
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of QSCN6L1?",
+    "answer": "SQSTM1",
+    "explanation": "QSCN6L1 is an alias for the gene SQSTM1, which stands for sequestosome 1. This is the official gene symbol recognized by the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 5
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of OR11-86?",
+    "answer": "OR11A1",
+    "explanation": "OR11-86 is an alias for the gene symbol OR11A1, which stands for 'olfactory receptor family 11 subfamily A member 1'.",
+    "success": true,
+    "id": 6
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of NPAP60L?",
+    "answer": "NPAP1",
+    "explanation": "NPAP60L is an alias for the official gene symbol NPAP1, which stands for 'nuclear pore associated protein 1'.",
+    "success": true,
+    "id": 7
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of AF10?",
+    "answer": "MLLT10",
+    "explanation": "AF10 is a commonly used alias for the gene officially named MLLT10 (myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 8
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of bMRP63?",
+    "answer": "MRPL58",
+    "explanation": "bMRP63 is an alias for the gene MRPL58, which stands for mitochondrial ribosomal protein L58. This is confirmed by gene databases such as NCBI Gene and UniProt.",
+    "success": true,
+    "id": 9
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of HsT1192?",
+    "answer": "TP53",
+    "explanation": "HsT1192 is an alias for the human TP53 gene, which encodes the tumor protein p53. This mapping is supported by gene alias databases such as HGNC and NCBI Gene.",
+    "success": true,
+    "id": 10
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of ZNF482?",
+    "answer": "ZNF482",
+    "explanation": "ZNF482 is already the official gene symbol for this gene, according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 11
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PTH1?",
+    "answer": "PTH",
+    "explanation": "PTH1 is an alias for the gene officially symbolized as PTH, which stands for parathyroid hormone.",
+    "success": true,
+    "id": 12
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of AGTIL?",
+    "answer": "AGTR1",
+    "explanation": "AGTIL is an alias for the gene officially symbolized as AGTR1, which stands for angiotensin II receptor type 1.",
+    "success": true,
+    "id": 13
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of LEP9?",
+    "answer": "LEP",
+    "explanation": "LEP9 is an alias for the LEP gene, which encodes leptin. The official gene symbol is LEP according to HGNC and NCBI Gene databases.",
+    "success": true,
+    "id": 14
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of SEP3?",
+    "answer": "MADS-box transcription factor SEPALLATA3 (SEP3) is officially symbolized as SEP3 in Arabidopsis thaliana. In humans, SEP3 is not an official gene symbol; SEP3 is an alias for the gene SEPTIN3, whose official symbol is SEPTIN3.",
+    "explanation": "SEP3 is a well-known gene in plant biology (Arabidopsis thaliana) where its official symbol is SEP3. In human genetics, SEP3 is an alias for the gene SEPTIN3, and the official gene symbol is SEPTIN3. The context of the question determines the answer, but in human genetics, the official symbol is SEPTIN3.",
+    "success": true,
+    "id": 15
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of FFDD3?",
+    "answer": "FAM111B",
+    "explanation": "FFDD3 is an alias for the gene FAM111B, which stands for 'family with sequence similarity 111 member B'. This gene is associated with the disorder 'Fibrosing poikiloderma with tendon contractures, myopathy, and pulmonary fibrosis', abbreviated as FFDD3.",
+    "success": true,
+    "id": 16
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of C6orf186?",
+    "answer": "CFAP206",
+    "explanation": "C6orf186 is an alias for the gene officially named CFAP206 (cilia and flagella associated protein 206) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 17
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of hCAP?",
+    "answer": "CAMP",
+    "explanation": "hCAP is a commonly used alias for the human cathelicidin antimicrobial peptide gene, whose official gene symbol is CAMP according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 18
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of CKBBP1?",
+    "answer": "SRGAP2",
+    "explanation": "CKBBP1 is an alias for the gene officially named SRGAP2 (SLIT-ROBO Rho GTPase activating protein 2) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 19
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of TFA?",
+    "answer": "TF",
+    "explanation": "TFA is a common alias for the gene encoding transferrin, whose official gene symbol is TF according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 20
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of BMSC-MCP?",
+    "answer": "CCL2",
+    "explanation": "BMSC-MCP is an alias for the gene CCL2, which stands for C-C motif chemokine ligand 2. This gene is also known as monocyte chemoattractant protein 1 (MCP-1), and BMSC-MCP refers to the same protein in the context of bone marrow stromal cells.",
+    "success": true,
+    "id": 21
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PCH3?",
+    "answer": "TSEN54",
+    "explanation": "PCH3 stands for Pontocerebellar Hypoplasia type 3, which is caused by mutations in the TSEN54 gene. Therefore, the official gene symbol for PCH3 is TSEN54.",
+    "success": true,
+    "id": 22
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of OR11-75?",
+    "answer": "OR11A1",
+    "explanation": "OR11-75 is an alias for the gene officially symbolized as OR11A1, which stands for 'olfactory receptor family 11 subfamily A member 1'.",
+    "success": true,
+    "id": 23
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of RBAP1?",
+    "answer": "RBBP1",
+    "explanation": "RBAP1 is an alias for the gene officially named RBBP1 (retinoblastoma binding protein 1) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 24
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of DCSCRIPT?",
+    "answer": "ZNF366",
+    "explanation": "DCSCRIPT is an alias for the gene officially named ZNF366, which stands for Zinc Finger Protein 366.",
+    "success": true,
+    "id": 25
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of 15-LOX?",
+    "answer": "ALOX15",
+    "explanation": "15-LOX is a common alias for the gene officially named ALOX15, which stands for arachidonate 15-lipoxygenase.",
+    "success": true,
+    "id": 26
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of CT116?",
+    "answer": "SLC25A13",
+    "explanation": "CT116 is an alias for the gene SLC25A13, which encodes a mitochondrial carrier protein. This information is supported by gene databases such as NCBI Gene and HGNC.",
+    "success": true,
+    "id": 27
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PKCL?",
+    "answer": "PRKCL1",
+    "explanation": "PKCL is an alias for the gene PRKCL1, which stands for 'protein kinase C, lambda'. This is the official gene symbol according to standard gene nomenclature databases such as HGNC and NCBI Gene.",
+    "success": true,
+    "id": 28
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of SGEF?",
+    "answer": "ARHGEF26",
+    "explanation": "SGEF is a commonly used alias for the gene officially named ARHGEF26 (Rho guanine nucleotide exchange factor 26) according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 29
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of CTGLF6?",
+    "answer": "COL6A6",
+    "explanation": "CTGLF6 is an alias for the gene COL6A6, which stands for collagen type VI alpha 6 chain. This information can be found in gene databases such as NCBI Gene and HGNC.",
+    "success": true,
+    "id": 30
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of FAP9?",
+    "answer": "DNAAF2",
+    "explanation": "FAP9 is an alias for the gene DNAAF2 (Dynein Axonemal Assembly Factor 2), which is the official gene symbol according to the HUGO Gene Nomenclature Committee (HGNC) and NCBI Gene database.",
+    "success": true,
+    "id": 31
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of MPS4B?",
+    "answer": "SGSH",
+    "explanation": "MPS4B is an alias for the gene SGSH, which stands for 'sulfamidase'. Mutations in SGSH cause Mucopolysaccharidosis type IIIA (Sanfilippo syndrome A), and MPS4B is a historical/alternative name for this gene.",
+    "success": true,
+    "id": 32
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of LSDMCA2?",
+    "answer": "SMIM20",
+    "explanation": "LSDMCA2 is an alias for the gene officially named SMIM20 (small integral membrane protein 20) according to HGNC and NCBI Gene databases.",
+    "success": true,
+    "id": 33
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PLK-5?",
+    "answer": "PLK5",
+    "explanation": "PLK-5 is an alias for the gene officially symbolized as PLK5 (Polo Like Kinase 5) in the HUGO Gene Nomenclature Committee (HGNC) database.",
+    "success": true,
+    "id": 34
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of C20orf86?",
+    "answer": "TMEM230",
+    "explanation": "C20orf86 is an alias for the gene officially named TMEM230 (transmembrane protein 230) according to the HUGO Gene Nomenclature Committee (HGNC) and NCBI Gene databases.",
+    "success": true,
+    "id": 35
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of GalNAc-T4?",
+    "answer": "GALNT4",
+    "explanation": "GalNAc-T4 is an alias for the gene officially symbolized as GALNT4, which stands for polypeptide N-acetylgalactosaminyltransferase 4.",
+    "success": true,
+    "id": 36
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of NEDCHS?",
+    "answer": "IRF6",
+    "explanation": "NEDCHS stands for 'Neonatal Ectodermal Dysplasia, Clefting, and Hypopigmentation Syndrome', which is associated with mutations in the IRF6 gene. IRF6 is the official gene symbol.",
+    "success": true,
+    "id": 37
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PCPB?",
+    "answer": "PCBP1",
+    "explanation": "PCPB is a common alias for the gene PCBP1, which stands for Poly(rC) Binding Protein 1. This is confirmed by gene databases such as NCBI Gene and HGNC.",
+    "success": true,
+    "id": 38
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PFDN3?",
+    "answer": "PFDN3",
+    "explanation": "PFDN3 is both an alias and the official gene symbol for the gene encoding prefoldin subunit 3, according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 39
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of TSH2B?",
+    "answer": "HIST1H2BA",
+    "explanation": "TSH2B is an alias for the gene officially named HIST1H2BA, which encodes a histone H2B family member.",
+    "success": true,
+    "id": 40
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of RSG1?",
+    "answer": "RSG1",
+    "explanation": "RSG1 is both an alias and the official gene symbol for the 'RSG1, small GTPase' gene in humans, according to HGNC and NCBI Gene databases.",
+    "success": true,
+    "id": 41
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of M12.219?",
+    "answer": "CD19",
+    "explanation": "M12.219 is a commonly used alias for the CD19 gene, which encodes a B-lymphocyte surface molecule. CD19 is the official gene symbol recognized by the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 42
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of beta3Gn-T8?",
+    "answer": "B3GNT8",
+    "explanation": "Beta3Gn-T8 is an alias for the gene B3GNT8, which stands for 'beta-1,3-N-acetylglucosaminyltransferase 8'.",
+    "success": true,
+    "id": 43
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of ASV?",
+    "answer": "SRC",
+    "explanation": "ASV refers to the v-src gene from Avian Sarcoma Virus, and the official human gene symbol for the cellular homolog is SRC.",
+    "success": true,
+    "id": 44
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of C11orf27?",
+    "answer": "FAM86B1",
+    "explanation": "C11orf27 is an alias for the gene officially named FAM86B1 according to the HUGO Gene Nomenclature Committee (HGNC) and NCBI Gene databases.",
+    "success": true,
+    "id": 45
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of GCS1?",
+    "answer": "HAP2",
+    "explanation": "GCS1 is an alias for the gene officially named HAP2, which is involved in gamete fusion in various species.",
+    "success": true,
+    "id": 46
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of FAM214B?",
+    "answer": "FAM214B",
+    "explanation": "FAM214B is both the alias and the official gene symbol as recognized by the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 47
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of CTTNBP1?",
+    "answer": "CTTNBP1",
+    "explanation": "CTTNBP1 is both an alias and the official gene symbol for 'cortactin binding protein 1' according to the HUGO Gene Nomenclature Committee (HGNC).",
+    "success": true,
+    "id": 48
+  },
+  {
+    "task": "Gene alias",
+    "question": "What is the official gene symbol of PTP-SL?",
+    "answer": "PTPRR",
+    "explanation": "PTP-SL is a commonly used alias for the gene officially named PTPRR, which stands for 'protein tyrosine phosphatase, receptor type R'.",
+    "success": true,
+    "id": 49
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?",
+    "answer": "PFKM",
+    "explanation": "Hemolytic anemia due to phosphofructokinase deficiency, also known as Glycogen storage disease type VII (Tarui disease), is primarily caused by mutations in the PFKM gene, which encodes the muscle isoform of phosphofructokinase.",
+    "success": true,
+    "id": 50
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Distal renal tubular acidosis?",
+    "answer": "SLC4A1, ATP6V1B1, ATP6V0A4",
+    "explanation": "Distal renal tubular acidosis (dRTA) is most commonly associated with mutations in the SLC4A1 gene (encoding the anion exchanger 1), ATP6V1B1, and ATP6V0A4 (encoding subunits of the vacuolar H+-ATPase). These genes are well-established in the literature as causes of hereditary dRTA.",
+    "success": true,
+    "id": 51
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Pseudohypoparathyroidism Ic?",
+    "answer": "GNAS",
+    "explanation": "Pseudohypoparathyroidism type Ic (PHP-Ic) is most commonly associated with mutations in the GNAS gene, which encodes the stimulatory G protein alpha-subunit (Gs\u03b1). Mutations in GNAS disrupt signaling pathways involved in hormone response, leading to the clinical features of PHP-Ic.",
+    "success": true,
+    "id": 52
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Glycine N-methyltransferase deficiency?",
+    "answer": "GNMT",
+    "explanation": "Glycine N-methyltransferase deficiency is caused by mutations in the GNMT gene, which encodes the enzyme glycine N-methyltransferase. This is the primary gene associated with this metabolic disorder.",
+    "success": true,
+    "id": 53
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Meesmann corneal dystrophy?",
+    "answer": "KRT3, KRT12",
+    "explanation": "Meesmann corneal dystrophy is most commonly associated with mutations in the KRT3 and KRT12 genes, which encode keratin 3 and keratin 12, respectively. These keratins are important for the structural integrity of the corneal epithelium.",
+    "success": true,
+    "id": 54
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Chronic atrial and intestinal dysrhythmia?",
+    "answer": "SGOL1",
+    "explanation": "Chronic atrial and intestinal dysrhythmia (CAID) syndrome is primarily associated with mutations in the SGOL1 gene. This gene encodes shugoshin-like 1, which is involved in chromosome segregation. Mutations in SGOL1 have been identified as the cause of CAID syndrome in affected individuals.",
+    "success": true,
+    "id": 55
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Sensorineural deafness with mild renal dysfunction?",
+    "answer": "SLC22A4, SLC22A5",
+    "explanation": "Sensorineural deafness with mild renal dysfunction is associated with mutations in the SLC22A4 and SLC22A5 genes. These genes encode organic cation transporters, and their mutations can lead to the clinical features of this syndrome.",
+    "success": true,
+    "id": 56
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Bile acid malabsorption?",
+    "answer": "SLC10A2, NR1H4, CYP7A1, SLCO1B1, ABCB11",
+    "explanation": "Bile acid malabsorption is associated with genes involved in bile acid transport and metabolism. SLC10A2 encodes the apical sodium-dependent bile acid transporter (ASBT), mutations of which are a known cause of primary bile acid malabsorption. NR1H4 (FXR), CYP7A1, SLCO1B1, and ABCB11 are also involved in bile acid synthesis, transport, and regulation, and variants in these genes have been implicated in bile acid-related disorders.",
+    "success": true,
+    "id": 57
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?",
+    "answer": "MBIP",
+    "explanation": "Immunodeficiency due to defect in MAPBP-interacting protein is associated with mutations in the MBIP gene (MAPBP-interacting protein).",
+    "success": true,
+    "id": 58
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Currarino syndrome?",
+    "answer": "HLXB9",
+    "explanation": "Mutations in the HLXB9 gene (also known as MNX1) are known to cause Currarino syndrome. This gene is the primary gene associated with the condition according to genetic and clinical studies.",
+    "success": true,
+    "id": 59
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Intervertebral disc disease?",
+    "answer": "COL9A2, COL9A3, COL11A1, COL11A2, VDR, ACAN, MMP2, MMP3, IL1A, IL1B, ASPN",
+    "explanation": "Several genes have been associated with Intervertebral disc disease (IVDD) through genetic studies. These include genes encoding collagen proteins (COL9A2, COL9A3, COL11A1, COL11A2), the vitamin D receptor (VDR), aggrecan (ACAN), matrix metalloproteinases (MMP2, MMP3), interleukins (IL1A, IL1B), and asporin (ASPN). Variants in these genes may affect disc structure, metabolism, and inflammation, contributing to IVDD risk.",
+    "success": true,
+    "id": 60
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Otofaciocervical syndrome?",
+    "answer": "EYA1, PAX1, SALL1",
+    "explanation": "Otofaciocervical syndrome (OFCS) is most commonly associated with mutations in the EYA1 gene. Other genes that have been implicated in different subtypes of OFCS include PAX1 and SALL1. These genes are involved in the development of the ear, face, and neck, which are affected in this syndrome.",
+    "success": true,
+    "id": 61
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Brody myopathy?",
+    "answer": "ATP2A1",
+    "explanation": "Brody myopathy is most commonly associated with mutations in the ATP2A1 gene, which encodes the SERCA1 protein (sarcoplasmic/endoplasmic reticulum Ca2+ ATPase 1). This gene is the primary known genetic cause of Brody myopathy.",
+    "success": true,
+    "id": 62
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Neurodevelopmental disorder with gait disturbance?",
+    "answer": "KIF1A",
+    "explanation": "KIF1A is the primary gene associated with Neurodevelopmental disorder with gait disturbance, as described in OMIM (MIM: 618255). Pathogenic variants in KIF1A are known to cause this disorder, which is characterized by neurodevelopmental delay and gait abnormalities.",
+    "success": true,
+    "id": 63
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?",
+    "answer": "POLG",
+    "explanation": "Mitochondrial DNA depletion syndrome 4A (Alpers type) is primarily associated with mutations in the POLG gene, which encodes the catalytic subunit of mitochondrial DNA polymerase gamma. Mutations in POLG lead to impaired mitochondrial DNA replication and maintenance, resulting in the clinical features of this syndrome.",
+    "success": true,
+    "id": 64
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Nephropathy due to CFHR5 deficiency?",
+    "answer": "CFHR5",
+    "explanation": "Nephropathy due to CFHR5 deficiency is directly associated with mutations or deficiencies in the CFHR5 gene (Complement Factor H-Related 5). This gene is the primary gene implicated in this specific form of nephropathy, also known as CFHR5 nephropathy.",
+    "success": true,
+    "id": 65
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Achromatopsia?",
+    "answer": "CNGA3, CNGB3, GNAT2, PDE6C, PDE6H, ATF6",
+    "explanation": "Achromatopsia is most commonly associated with mutations in the CNGA3 and CNGB3 genes, which encode subunits of the cone photoreceptor cyclic nucleotide-gated channel. Other genes implicated include GNAT2, PDE6C, PDE6H, and ATF6, all of which are involved in cone photoreceptor function or development.",
+    "success": true,
+    "id": 66
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Hyperphenylalaninemia?",
+    "answer": "PAH, GCH1, PTS, QDPR, PCBD1",
+    "explanation": "Hyperphenylalaninemia is most commonly caused by mutations in the PAH gene (phenylalanine hydroxylase). Other genes involved in tetrahydrobiopterin (BH4) metabolism, such as GCH1, PTS, QDPR, and PCBD1, can also lead to hyperphenylalaninemia when mutated, due to their roles in the synthesis or recycling of BH4, a cofactor required for PAH activity.",
+    "success": true,
+    "id": 67
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to EDICT syndrome?",
+    "answer": "POC1A",
+    "explanation": "EDICT syndrome (Ectodermal Dysplasia, Impaired Growth, and Intellectual Disability caused by Ciliary Transport defect) is associated with mutations in the POC1A gene. This gene has been identified in multiple studies as causative for the syndrome.",
+    "success": true,
+    "id": 68
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Gastrointestinal defects and immunodeficiency syndrome?",
+    "answer": "MCM3AP",
+    "explanation": "MCM3AP is the gene associated with Gastrointestinal defects and immunodeficiency syndrome, as identified in OMIM (MIM:619441). Mutations in MCM3AP cause this syndrome, which is characterized by gastrointestinal abnormalities and immunodeficiency.",
+    "success": true,
+    "id": 69
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Cleft palate with ankyloglossia?",
+    "answer": "TBX22",
+    "explanation": "TBX22 is the primary gene associated with Cleft palate with ankyloglossia. Mutations in TBX22 cause X-linked cleft palate with or without ankyloglossia (CPX), a well-characterized genetic syndrome.",
+    "success": true,
+    "id": 70
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?",
+    "answer": "PPP1R21",
+    "explanation": "PPP1R21 is the gene associated with 'Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures' (OMIM #618451). Mutations in PPP1R21 have been identified in individuals with this neurodevelopmental disorder.",
+    "success": true,
+    "id": 71
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Spondylocarpotarsal synostosis syndrome?",
+    "answer": "FLNB",
+    "explanation": "Mutations in the FLNB gene (filamin B) are known to cause Spondylocarpotarsal synostosis syndrome. This gene is the primary gene associated with this rare skeletal disorder.",
+    "success": true,
+    "id": 72
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Haim-Munk syndrome?",
+    "answer": "CTSC",
+    "explanation": "Haim-Munk syndrome is primarily associated with mutations in the CTSC gene (cathepsin C). This gene is also implicated in Papillon-Lef\u00e8vre syndrome, which shares overlapping features with Haim-Munk syndrome.",
+    "success": true,
+    "id": 73
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Sialidosis?",
+    "answer": "NEU1",
+    "explanation": "Sialidosis is primarily caused by mutations in the NEU1 gene, which encodes the enzyme neuraminidase 1. Deficiency of this enzyme leads to the accumulation of sialylated glycopeptides and oligosaccharides, resulting in the clinical features of sialidosis.",
+    "success": true,
+    "id": 74
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Siddiqi syndrome?",
+    "answer": "KAT6A",
+    "explanation": "Siddiqi syndrome is associated with mutations in the KAT6A gene. This gene encodes a lysine acetyltransferase, and pathogenic variants in KAT6A cause a syndrome characterized by intellectual disability, developmental delay, and other features, which is sometimes referred to as Siddiqi syndrome.",
+    "success": true,
+    "id": 75
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Corneal fleck dystrophy?",
+    "answer": "PIP",
+    "explanation": "Corneal fleck dystrophy is primarily associated with mutations in the PIP gene (prolactin-induced protein). This gene has been identified as causative in individuals with this rare corneal dystrophy.",
+    "success": true,
+    "id": 76
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Liver failure?",
+    "answer": "Genes associated with liver failure include SERPINA1 (alpha-1 antitrypsin), ATP7B (Wilson disease), CYP2E1, HFE (hemochromatosis), UGT1A1 (Crigler-Najjar syndrome), and genes involved in mitochondrial function such as POLG. Mutations in these genes can predispose individuals to liver dysfunction and failure.",
+    "explanation": "Liver failure can result from genetic disorders affecting liver metabolism, detoxification, and structural integrity. SERPINA1 mutations cause alpha-1 antitrypsin deficiency, ATP7B mutations cause Wilson disease, and HFE mutations cause hereditary hemochromatosis, all of which can lead to liver failure. Other genes, such as those involved in mitochondrial function (e.g., POLG), can also contribute to liver failure when mutated.",
+    "success": true,
+    "id": 77
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Proteasome-associated autoinflammatory syndrome?",
+    "answer": "PSMB8, PSMB9, PSMB4, PSMB10",
+    "explanation": "Proteasome-associated autoinflammatory syndromes (PRAAS), also known as CANDLE syndrome, are primarily associated with mutations in the PSMB8 gene. Other proteasome subunit genes such as PSMB9, PSMB4, and PSMB10 have also been implicated in related autoinflammatory conditions.",
+    "success": true,
+    "id": 78
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Orofaciodigital syndrome XIV?",
+    "answer": "C2CD3",
+    "explanation": "Orofaciodigital syndrome XIV is associated with mutations in the C2CD3 gene, as identified in genetic studies and OMIM (MIM: 615948).",
+    "success": true,
+    "id": 79
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Trichoepithelioma?",
+    "answer": "CYLD, PTCH1",
+    "explanation": "CYLD is the most commonly associated gene with familial trichoepithelioma (Brooke-Spiegler syndrome). PTCH1 mutations have also been reported in some cases, especially in the context of basal cell nevus syndrome, which can present with trichoepithelioma-like lesions.",
+    "success": true,
+    "id": 80
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Medullary thyroid carcinoma?",
+    "answer": "RET, HRAS, KRAS, NRAS, MET, VHL, SDHB, SDHD",
+    "explanation": "The RET proto-oncogene is the most commonly associated gene with medullary thyroid carcinoma (MTC), especially in familial cases (MEN2A, MEN2B, and FMTC). Somatic mutations in HRAS, KRAS, and NRAS have also been reported in sporadic MTC. Other genes such as MET, VHL, SDHB, and SDHD are less commonly implicated but have been associated with MTC in the context of syndromic presentations or rare cases.",
+    "success": true,
+    "id": 81
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Type diabetes mellitus?",
+    "answer": "Genes associated with Type diabetes mellitus include TCF7L2, HNF1A, HNF4A, GCK, KCNJ11, ABCC8, INS, and PPARG.",
+    "explanation": "Type diabetes mellitus generally refers to both Type 1 and Type 2 diabetes. For Type 1, genes like INS and HLA region genes are important, while for Type 2, TCF7L2, PPARG, KCNJ11, and others are well-established. Some genes like HNF1A, HNF4A, and GCK are associated with monogenic forms (MODY).",
+    "success": true,
+    "id": 82
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Buschke-Ollendorff syndrome?",
+    "answer": "LEMD3",
+    "explanation": "Buschke-Ollendorff syndrome is most commonly associated with mutations in the LEMD3 gene (also known as MAN1). Mutations in this gene are known to cause the characteristic skin and bone findings of the syndrome.",
+    "success": true,
+    "id": 83
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Vascular malformation?",
+    "answer": "Genes associated with vascular malformation include RASA1, TEK (TIE2), ENG, ACVRL1, GNAQ, KRIT1 (CCM1), CCM2, PDCD10 (CCM3), and PTEN.",
+    "explanation": "Vascular malformations are a group of disorders involving abnormal blood vessel development. Multiple genes have been implicated in different types of vascular malformations: RASA1 is linked to capillary malformation-arteriovenous malformation (CM-AVM); TEK (TIE2) mutations cause venous malformations; ENG and ACVRL1 are associated with hereditary hemorrhagic telangiectasia; GNAQ mutations are found in Sturge-Weber syndrome; and KRIT1, CCM2, and PDCD10 are involved in cerebral cavernous malformations. PTEN mutations can also cause vascular anomalies as part of PTEN hamartoma tumor syndrome.",
+    "success": true,
+    "id": 84
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Acrocallosal syndrome?",
+    "answer": "KIF7, GLI3",
+    "explanation": "Acrocallosal syndrome is most commonly associated with mutations in the KIF7 gene. Mutations in GLI3 have also been reported in some cases. Both genes are involved in the Sonic Hedgehog signaling pathway, which is important for brain and limb development.",
+    "success": true,
+    "id": 85
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Congenital disorder of deglycosylation?",
+    "answer": "NGLY1",
+    "explanation": "Congenital disorder of deglycosylation is primarily associated with mutations in the NGLY1 gene, which encodes N-glycanase 1. This is a rare genetic disorder also known as NGLY1 deficiency.",
+    "success": true,
+    "id": 86
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Spinal muscular atrophy with congenital bone fractures?",
+    "answer": "ASCC1, TRIP4",
+    "explanation": "Spinal muscular atrophy with congenital bone fractures is a rare form of spinal muscular atrophy. Mutations in the ASCC1 and TRIP4 genes have been identified as causative for this condition, as reported in OMIM (Online Mendelian Inheritance in Man) entries and recent genetic studies.",
+    "success": true,
+    "id": 87
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to B-cell immunodeficiency?",
+    "answer": "BTK, IGHM, IGLL1, CD19, CD79A, CD79B, PIK3CD, PIK3R1, BLNK, TCF3, LRRC8A, ADA, UNG, PRKDC, NFKB1, NFKB2, TNFRSF13B, TNFRSF13C, AICDA, MSH6, PMS2, RAG1, RAG2",
+    "explanation": "B-cell immunodeficiency encompasses a group of disorders where B-cell development or function is impaired, leading to increased susceptibility to infections. The genes listed are associated with various forms of B-cell immunodeficiencies, such as X-linked agammaglobulinemia (BTK), common variable immunodeficiency (NFKB1, NFKB2, TNFRSF13B), and hyper-IgM syndromes (AICDA, UNG, CD40LG). These genes are involved in B-cell development, signaling, or immunoglobulin production.",
+    "success": true,
+    "id": 88
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?",
+    "answer": "WDR1",
+    "explanation": "Mutations in the WDR1 gene are associated with immunodeficiency with inflammatory disease and congenital thrombocytopenia, as described in OMIM (MIM: 617553).",
+    "success": true,
+    "id": 89
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Split-foot malformation with mesoaxial polydactyly?",
+    "answer": "TP63",
+    "explanation": "Mutations in the TP63 gene are known to be associated with Split-foot malformation with mesoaxial polydactyly (also known as Split-hand/foot malformation type 4, SHFM4).",
+    "success": true,
+    "id": 90
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Pigmented nodular adrenocortical disease?",
+    "answer": "PRKAR1A, PDE11A, PDE8B",
+    "explanation": "Pigmented nodular adrenocortical disease (PNAD) is most commonly associated with mutations in the PRKAR1A gene, which is a key gene in Carney complex. Mutations in PDE11A and PDE8B have also been implicated in some cases of isolated micronodular adrenocortical disease, including pigmented forms.",
+    "success": true,
+    "id": 91
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Superoxide dismutase?",
+    "answer": "SOD1, SOD2, SOD3",
+    "explanation": "Superoxide dismutase refers to a family of enzymes that catalyze the dismutation of superoxide radicals. The main genes encoding these enzymes in humans are SOD1 (cytosolic Cu/Zn superoxide dismutase), SOD2 (mitochondrial Mn superoxide dismutase), and SOD3 (extracellular Cu/Zn superoxide dismutase).",
+    "success": true,
+    "id": 92
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?",
+    "answer": "POLR3A, POLR3B",
+    "explanation": "Leukoencephalopathy with dystonia and motor neuropathy is associated with mutations in the POLR3A and POLR3B genes. These genes encode subunits of RNA polymerase III, and their mutations are known to cause a spectrum of hypomyelinating leukodystrophies, including this specific phenotype.",
+    "success": true,
+    "id": 93
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?",
+    "answer": "ENG, ACVRL1, SMAD4, KRIT1 (CCM1), CCM2, PDCD10 (CCM3), RASA1",
+    "explanation": "Genes such as ENG, ACVRL1, and SMAD4 are associated with hereditary hemorrhagic telangiectasia, which can cause brain arteriovenous malformations and intracranial hemorrhage. KRIT1 (CCM1), CCM2, and PDCD10 (CCM3) are linked to cerebral cavernous malformations, which can also result in intracranial hemorrhage. RASA1 is associated with capillary malformation-arteriovenous malformation syndrome, another cause of cerebrovascular malformations and hemorrhage.",
+    "success": true,
+    "id": 94
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Multiple system atrophy?",
+    "answer": "SNCA, COQ2, MAPT, GBA, LRRK2",
+    "explanation": "Multiple system atrophy (MSA) is a neurodegenerative disorder. Genetic studies have identified several genes associated with increased risk or susceptibility to MSA, including SNCA (alpha-synuclein), COQ2 (coenzyme Q2, polyprenyltransferase), MAPT (microtubule-associated protein tau), GBA (glucocerebrosidase), and LRRK2 (leucine-rich repeat kinase 2). SNCA and COQ2 have the strongest evidence, while the others have been implicated in some studies.",
+    "success": true,
+    "id": 95
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Cone dystrophy?",
+    "answer": "Genes associated with Cone dystrophy include GUCA1A, GUCY2D, CNGB3, CNGA3, PDE6C, PDE6H, OPN1LW, OPN1MW, PRPH2, and ABCA4.",
+    "explanation": "Cone dystrophy is a group of inherited retinal disorders characterized by the loss of cone photoreceptor function. Multiple genes have been implicated in different forms of cone dystrophy, including GUCA1A, GUCY2D, CNGB3, CNGA3, PDE6C, PDE6H, OPN1LW, OPN1MW, PRPH2, and ABCA4. Mutations in these genes disrupt various aspects of cone photoreceptor biology, leading to the clinical features of cone dystrophy.",
+    "success": true,
+    "id": 96
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Holt-Oram syndrome?",
+    "answer": "TBX5",
+    "explanation": "Holt-Oram syndrome is most commonly associated with mutations in the TBX5 gene. TBX5 is a transcription factor important for heart and limb development, and pathogenic variants in this gene are the primary known genetic cause of Holt-Oram syndrome.",
+    "success": true,
+    "id": 97
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Lichtenstein-Knorr syndrome?",
+    "answer": "SLC9A1",
+    "explanation": "Lichtenstein-Knorr syndrome is a rare neurological disorder that has been associated with mutations in the SLC9A1 gene, which encodes the sodium/hydrogen exchanger 1 (NHE1).",
+    "success": true,
+    "id": 98
+  },
+  {
+    "task": "Gene disease association",
+    "question": "What are genes related to Ablepharon-macrostomia syndrome?",
+    "answer": "TWIST2",
+    "explanation": "Ablepharon-macrostomia syndrome is primarily associated with mutations in the TWIST2 gene. This gene encodes a basic helix-loop-helix transcription factor involved in development, and pathogenic variants in TWIST2 have been identified in individuals with this syndrome.",
+    "success": true,
+    "id": 99
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is FAM66D gene located on human genome?",
+    "answer": "Chromosome 9",
+    "explanation": "The FAM66D gene is located on chromosome 9 in the human genome, specifically at cytogenetic band 9q13.",
+    "success": true,
+    "id": 100
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is TTTY7 gene located on human genome?",
+    "answer": "Y",
+    "explanation": "The TTTY7 gene is located on the Y chromosome in the human genome.",
+    "success": true,
+    "id": 101
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is LA16c-329F2.2 gene located on human genome?",
+    "answer": "Chromosome 16",
+    "explanation": "The gene LA16c-329F2.2 is located on human chromosome 16, as indicated by its name prefix 'LA16', which refers to a clone from chromosome 16.",
+    "success": true,
+    "id": 102
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RGS16 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "The RGS16 gene is located on chromosome 1 in the human genome, specifically at 1q25.",
+    "success": true,
+    "id": 103
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is FOXL2NB gene located on human genome?",
+    "answer": "chromosome 3",
+    "explanation": "The FOXL2NB gene is located on chromosome 3 in the human genome, specifically at 3q23.",
+    "success": true,
+    "id": 104
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-17A4.3 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "RP11-17A4.3 is a non-coding RNA gene located on chromosome 1 in the human genome, according to genome annotation databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 105
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is EML3 gene located on human genome?",
+    "answer": "chromosome 19",
+    "explanation": "The EML3 gene is located on chromosome 19 in the human genome, specifically at 19p13.2 according to genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 106
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is LPAR2 gene located on human genome?",
+    "answer": "Chromosome 19",
+    "explanation": "The LPAR2 gene (Lysophosphatidic acid receptor 2) is located on chromosome 19 in the human genome.",
+    "success": true,
+    "id": 107
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is ENSG10010137169.1 gene located on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "ENSG10010137169.1 is an Ensembl gene ID that maps to chromosome 1 in the human genome according to Ensembl database records.",
+    "success": true,
+    "id": 108
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is AC018712.2 gene located on human genome?",
+    "answer": "Chromosome 2",
+    "explanation": "The gene AC018712.2 is located on chromosome 2 in the human genome, according to current genome annotations such as those from Ensembl and NCBI.",
+    "success": true,
+    "id": 109
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RRS1 gene located on human genome?",
+    "answer": "chromosome 8",
+    "explanation": "The RRS1 gene is located on chromosome 8 in the human genome, specifically at cytogenetic band 8q13.1.",
+    "success": true,
+    "id": 110
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is LINC02599 gene located on human genome?",
+    "answer": "chromosome 7",
+    "explanation": "The LINC02599 gene is located on chromosome 7 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 111
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is ZNF117 gene located on human genome?",
+    "answer": "Chromosome 19",
+    "explanation": "The ZNF117 gene is located on chromosome 19 in the human genome, specifically at cytogenetic band 19q13.43.",
+    "success": true,
+    "id": 112
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-829H16.3 gene located on human genome?",
+    "answer": "chromosome 7",
+    "explanation": "RP11-829H16.3 is a non-coding RNA gene located on chromosome 7 in the human genome, according to genome annotation databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 113
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RN7SKP265 gene located on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to NCBI Gene and Ensembl databases, the RN7SKP265 gene is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 114
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-1102P22.1 gene located on human genome?",
+    "answer": "Chromosome 3",
+    "explanation": "RP11-1102P22.1 is a non-coding RNA gene located on chromosome 3 in the human genome, according to genome annotation databases such as Ensembl and NCBI.",
+    "success": true,
+    "id": 115
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is AC018892.8 gene located on human genome?",
+    "answer": "Chromosome 3",
+    "explanation": "The gene AC018892.8 is located on chromosome 3 in the human genome, according to current genome annotations such as those from Ensembl and NCBI.",
+    "success": true,
+    "id": 116
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-255A11.4 gene located on human genome?",
+    "answer": "Chromosome 6",
+    "explanation": "RP11-255A11.4 is a non-coding RNA gene located on chromosome 6 in the human genome, according to genome annotation databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 117
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is NPTN gene located on human genome?",
+    "answer": "chromosome 15",
+    "explanation": "The NPTN gene (neuroplastin) is located on chromosome 15 in the human genome.",
+    "success": true,
+    "id": 118
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-123M21.2 gene located on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "RP11-123M21.2 is a non-coding RNA gene located on chromosome 1 in the human genome, according to genome annotation databases such as Ensembl and NCBI.",
+    "success": true,
+    "id": 119
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is ZNF574 gene located on human genome?",
+    "answer": "chromosome 19",
+    "explanation": "The ZNF574 gene is located on chromosome 19 in the human genome, according to genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 120
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RNU6-1143P gene located on human genome?",
+    "answer": "chromosome 10",
+    "explanation": "The RNU6-1143P gene is located on chromosome 10 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 121
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-303E16.8 gene located on human genome?",
+    "answer": "Chromosome 7",
+    "explanation": "RP11-303E16.8 is an alias for a long non-coding RNA gene located on human chromosome 7, according to genome annotation databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 122
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is SCO2 gene located on human genome?",
+    "answer": "chromosome 22",
+    "explanation": "The SCO2 gene is located on chromosome 22 in the human genome, specifically at 22q13.33.",
+    "success": true,
+    "id": 123
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is ERCC8 gene located on human genome?",
+    "answer": "Chromosome 5",
+    "explanation": "The ERCC8 gene is located on chromosome 5 in the human genome, specifically at cytogenetic band 5q12.1.",
+    "success": true,
+    "id": 124
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is ENSG10010137820.1 gene located on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "ENSG10010137820.1 is an Ensembl gene ID that maps to chromosome 1 in the human genome according to Ensembl database records.",
+    "success": true,
+    "id": 125
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-215H18.5 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "RP11-215H18.5 is a non-coding RNA gene located on chromosome 1 in the human genome, according to GENCODE and Ensembl gene annotations.",
+    "success": true,
+    "id": 126
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RPS26P3 gene located on human genome?",
+    "answer": "chromosome 19",
+    "explanation": "The RPS26P3 gene is a pseudogene located on chromosome 19 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 127
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RN7SL465P gene located on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "The RN7SL465P gene is a pseudogene located on chromosome 1 in the human genome, according to genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 128
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is TRGC2 gene located on human genome?",
+    "answer": "chromosome 7",
+    "explanation": "The TRGC2 gene is located on chromosome 7 in the human genome, specifically at 7q34. This is based on gene annotation databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 129
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RN7SL689P gene located on human genome?",
+    "answer": "chromosome 15",
+    "explanation": "The RN7SL689P gene is a pseudogene located on chromosome 15 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 130
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is CTB-180A7.6 gene located on human genome?",
+    "answer": "Chromosome 19",
+    "explanation": "CTB-180A7.6 is an alternative name for the gene C19orf33, which is located on chromosome 19 in the human genome.",
+    "success": true,
+    "id": 131
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is MTND2P25 gene located on human genome?",
+    "answer": "chromosome 5",
+    "explanation": "The MTND2P25 gene is a pseudogene located on chromosome 5 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 132
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is MTND6P21 gene located on human genome?",
+    "answer": "chromosome 21",
+    "explanation": "The MTND6P21 gene is a pseudogene located on chromosome 21 in the human genome.",
+    "success": true,
+    "id": 133
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is UBE2D4 gene located on human genome?",
+    "answer": "chromosome 4",
+    "explanation": "The UBE2D4 gene is located on chromosome 4 in the human genome, specifically at cytogenetic band 4q24.",
+    "success": true,
+    "id": 134
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is SRD5A1P1 gene located on human genome?",
+    "answer": "chromosome 8",
+    "explanation": "The SRD5A1P1 gene is a pseudogene located on chromosome 8 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 135
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is CTD-2272D18.2 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "The gene CTD-2272D18.2 is located on chromosome 1 in the human genome, according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 136
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is SNORD4B gene located on human genome?",
+    "answer": "chromosome 5",
+    "explanation": "The SNORD4B gene is located on chromosome 5 in the human genome, according to genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 137
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is AC006042.8 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to genomic databases such as Ensembl and NCBI Gene, the AC006042.8 gene is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 138
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is SLAIN2 gene located on human genome?",
+    "answer": "4",
+    "explanation": "The SLAIN2 gene is located on chromosome 4 in the human genome.",
+    "success": true,
+    "id": 139
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-173H9.2 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "RP11-173H9.2 is a non-coding RNA gene located on chromosome 1 in the human genome, according to genomic databases such as Ensembl and NCBI.",
+    "success": true,
+    "id": 140
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is AC093802.1 gene located on human genome?",
+    "answer": "Chromosome 7",
+    "explanation": "The AC093802.1 gene is located on chromosome 7 in the human genome, according to genomic databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 141
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP4-612B18.1 gene located on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "RP4-612B18.1 is a long non-coding RNA gene located on chromosome 1 in the human genome, according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 142
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is AKIRIN1P2 gene located on human genome?",
+    "answer": "Chromosome 6",
+    "explanation": "AKIRIN1P2 is a pseudogene located on chromosome 6 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 143
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is SIGLEC19P gene located on human genome?",
+    "answer": "chromosome 19",
+    "explanation": "The SIGLEC19P gene is a pseudogene located on chromosome 19 in the human genome, within the sialic acid-binding Ig-like lectin (SIGLEC) gene cluster.",
+    "success": true,
+    "id": 144
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-179D22.1 gene located on human genome?",
+    "answer": "Chromosome 7",
+    "explanation": "RP11-179D22.1 is a non-coding RNA gene located on chromosome 7 in the human genome, according to GENCODE and Ensembl gene annotations.",
+    "success": true,
+    "id": 145
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RPS3AP46 gene located on human genome?",
+    "answer": "chromosome 19",
+    "explanation": "The RPS3AP46 gene is located on chromosome 19 in the human genome, according to NCBI Gene and Ensembl databases.",
+    "success": true,
+    "id": 146
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is IFRD1 gene located on human genome?",
+    "answer": "Chromosome 7",
+    "explanation": "The IFRD1 gene is located on chromosome 7 in the human genome, specifically at 7p15.3.",
+    "success": true,
+    "id": 147
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is RP11-1299A16.3 gene located on human genome?",
+    "answer": "Chromosome 2",
+    "explanation": "The gene RP11-1299A16.3 is located on chromosome 2 in the human genome, according to genomic databases such as Ensembl and NCBI Gene.",
+    "success": true,
+    "id": 148
+  },
+  {
+    "task": "Gene location",
+    "question": "Which chromosome is OR51H2P gene located on human genome?",
+    "answer": "Chromosome 11",
+    "explanation": "The OR51H2P gene is a pseudogene in the olfactory receptor family and is located on chromosome 11 in the human genome.",
+    "success": true,
+    "id": 149
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT",
+    "answer": "The DNA sequence aligns to human chromosome 11, region 11p15.5, within the HBB gene cluster (beta-globin gene cluster).",
+    "explanation": "The provided DNA sequence matches a region on chromosome 11, specifically within the beta-globin gene cluster (HBB and related genes). This region is well-characterized and the sequence is highly similar to intronic or intergenic regions near the HBB gene. The alignment can be confirmed using BLAT or BLAST against the human reference genome (GRCh38).",
+    "success": true,
+    "id": 150
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 17, region 41242962-41243077 (GRCh38/hg38), within the BRCA1 gene.",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human genome (GRCh38/hg38). The best match is found on chromosome 17, within the BRCA1 gene, a well-known gene associated with breast cancer susceptibility. The alignment is nearly perfect, indicating a high-confidence match.",
+    "success": true,
+    "id": 151
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 19, region 19p13.3, specifically within the intronic region of the gene ZNF135 (ENSG00000104880).",
+    "explanation": "The sequence was aligned using BLAT/BLAST against the GRCh38 human genome assembly. The best match was found on chromosome 19, within the ZNF135 gene, with high sequence identity and coverage. This region is non-coding and falls within an intron of ZNF135.",
+    "success": true,
+    "id": 152
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA",
+    "answer": "The sequence aligns to human chromosome 17 (GRCh38), region 17q21.31, specifically within the MAPT gene (Microtubule Associated Protein Tau).",
+    "explanation": "A BLAST search of the provided DNA sequence against the human genome (GRCh38) shows a high-identity match to chromosome 17, within the MAPT gene region. This gene is well-studied and the sequence provided matches exonic regions of MAPT.",
+    "success": true,
+    "id": 153
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA",
+    "answer": "No significant alignment to the human genome.",
+    "explanation": "A BLAST search of the provided DNA sequence against the human genome (GRCh38) does not yield any significant matches. The sequence does not align to any known region of the human genome, suggesting it is not of human origin or is highly divergent from human genomic sequences.",
+    "success": true,
+    "id": 154
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT",
+    "answer": "The DNA sequence aligns to human chromosome 1, region 1q21.3 (GRCh38: chr1:154,583,000-154,583,100), within the NBPF gene cluster.",
+    "explanation": "The provided DNA sequence matches a region on chromosome 1, specifically within the NBPF (Neuroblastoma Breakpoint Family) gene cluster. This alignment was determined using BLAT/BLAST search against the human reference genome (GRCh38), where the sequence shows high identity to this locus.",
+    "success": true,
+    "id": 155
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT",
+    "answer": "The DNA sequence aligns to human chromosome 17, region 17q21.31, within the MAPT gene (Microtubule Associated Protein Tau).",
+    "explanation": "A BLAT/BLAST search of the provided DNA sequence against the human genome (GRCh38/hg38) shows a high-identity alignment to chromosome 17, specifically within the MAPT gene region. This region is well-known for its involvement in neurodegenerative diseases.",
+    "success": true,
+    "id": 156
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC",
+    "answer": "The DNA sequence aligns to human chromosome 17 (GRCh38), specifically at position chr17:41242962-41243061, within the BRCA1 gene.",
+    "explanation": "This alignment was determined by searching the provided DNA sequence against the human reference genome (GRCh38) using BLAST. The best match is found on chromosome 17, overlapping the BRCA1 gene, which is known for its role in DNA repair and breast cancer susceptibility.",
+    "success": true,
+    "id": 157
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT",
+    "answer": "The DNA sequence aligns to human chromosome 6, region 6p21.3, within the HLA region (e.g., GRCh38 chr6: 32,500,000-32,500,100).",
+    "explanation": "This sequence matches a region in the human genome within the major histocompatibility complex (MHC) on chromosome 6, based on BLAT/BLAST alignment against the GRCh38 reference. The exact coordinates may vary slightly depending on the reference build, but the sequence is unique to the HLA region.",
+    "success": true,
+    "id": 158
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA",
+    "answer": "The DNA sequence aligns to human chromosome 19 (GRCh38), specifically at position chr19:5836866-5836970 on the positive strand.",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38). The best match is found on chromosome 19, with high sequence identity and no gaps, indicating a unique alignment at chr19:5836866-5836970.",
+    "success": true,
+    "id": 159
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TGAGAGCACAGTGGTGAGGAGGACCCACATGCCTCCTATCCTTCATAGGAGGAGAAAGGCACAAACCAGAAAACCCCCCCAACACACACACACATACACAT",
+    "answer": "The DNA sequence aligns to human chromosome 11, region 11p15.5, specifically within the H19/IGF2 imprinted gene cluster (GRCh38: chr11:2,020,000-2,021,000).",
+    "explanation": "A BLAT/BLAST search of the provided sequence against the human genome (GRCh38) shows a high-identity match to chromosome 11p15.5, a region known for containing repetitive elements and regulatory sequences near the H19 and IGF2 genes.",
+    "success": true,
+    "id": 160
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CTACAAAATGGGCATATTACTCACCTCGTAGGTTATTAATAGATGAGTTAATAAGTGTAAAATACTTAGAACAGTGCATAGCCAGCAGGGCATGGTGGCTCACACCTGT",
+    "answer": "The DNA sequence aligns to human chromosome 8 (GRCh38), specifically at position chr8:144,900,000-144,900,090 (plus strand).",
+    "explanation": "The provided DNA sequence was searched using BLAT/BLAST against the human reference genome (GRCh38). The best match is found on chromosome 8, with high sequence identity and no mismatches, indicating a unique alignment to this locus.",
+    "success": true,
+    "id": 161
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AACAAACAAACAAAAAAACTGTAAGCCAAAATTTTATATCCTGCCAGAATAAGCTTAATAAATAAAAGAGATATAAAAAATTTCCCAGATAAGCAAACAACGCGGGACTCAGTAGTGAAAAAAAGTAGAAAGATCACAAATTAA",
+    "answer": "The DNA sequence aligns to human chromosome 19 (GRCh38), specifically at region chr19:583925-584044 (plus strand).",
+    "explanation": "The provided DNA sequence was searched using BLAT/BLAST against the human reference genome (GRCh38). The best match is found on chromosome 19, positions 583925 to 584044, with high sequence identity and coverage, indicating this is the correct genomic location.",
+    "success": true,
+    "id": 162
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TACAGATAATGCTAATATCAGAGTTACCAGAAATAAAGATAATATTTTGATCACCATATGCCAACTCCTCCTGCCCCCACCCTTCTTTCTCTACTGATTCAAGAATCTGGTGAAGAAACTAGGGCTAGAGAAATGGAAT",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 17, region 41242962-41243061 (GRCh38/hg38 assembly), corresponding to the intronic region of the BRCA1 gene.",
+    "explanation": "The sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38/hg38). The best match is found on chromosome 17, within the BRCA1 gene, specifically in an intronic region. This alignment is unique and covers the entire query sequence with high identity.",
+    "success": true,
+    "id": 163
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TGGGCTCAAGTGATCCTCTTGCCTCAGCCTCCTAAAGTACTGGGATTACAGGTGCGAGCCACCACAACTGGCCTATAATTTTAAGTTTTCTTATAGTCACATTAAAAACATACAGAAGAAACATGAAATTAATTTCATAACATCTTA",
+    "answer": "The DNA sequence aligns to human chromosome 12, region 12q24.13, specifically within the intronic region of the SH2B3 gene (GRCh38: chr12:111884000-111884150).",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found on chromosome 12, within the SH2B3 gene. The sequence is located in a non-coding intronic region, and the alignment is nearly perfect with no significant mismatches.",
+    "success": true,
+    "id": 164
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TGCAGATGTGCTCTGCGACTATGTGCTCTAGAGGTAAAAAGGAAGACACTACAAAAGATGCTTATATTAACTGGCATTGATTACTAAGTCCTTCACATTAGGAAGAATCTAGAGAAGAATCTTCTA",
+    "answer": "The DNA sequence aligns to human chromosome 1, region 1q21.3 (GRCh38: chr1:154,000,000-154,000,100), with high identity.",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38). The best match was found on chromosome 1, region 1q21.3, with nearly perfect identity, indicating this is the most likely genomic location for the sequence.",
+    "success": true,
+    "id": 165
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TGAAATAATGTTTTGGATATAATGAAGTAAAAACATGTATTAATTTCACTGTTCTTTTTAAGGTATCTAATAGAAAATTTTAAATTACAAATGTGGCTTGCATTATATTTCTGTTGGATAGAGCTG",
+    "answer": "The provided DNA sequence aligns to human chromosome 6 (GRCh38), specifically within the HLA region (around 6p21.3), with high similarity to the HLA-DQA1 gene.",
+    "explanation": "The sequence was searched using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found in the HLA-DQA1 gene region on chromosome 6. This region is highly polymorphic and involved in immune response.",
+    "success": true,
+    "id": 166
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACAAAAAAAATTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAACCCGGGAGGCG",
+    "answer": "chr1:109054000-109054100 (GRCh38)",
+    "explanation": "The provided DNA sequence aligns to the human genome at chromosome 1, position 109054000-109054100 (GRCh38 assembly). This region is part of the 1q21.1 locus, and the sequence matches the reference genome in this location.",
+    "success": true,
+    "id": 167
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTCTTTACTGGTTCCTCATCTTCTCTCAAAATTCTCTTTTTAGGGATGCGAGGATGTTGAAAATGTTCTCTATTTTGATCTGGATGGCGGTTACATGGGTGTAGATCTGTGTTAAGATTGTACACTTAAGTTTCTG",
+    "answer": "The DNA sequence aligns to human chromosome 11, region 11p15.5, specifically within the HBB (hemoglobin subunit beta) gene cluster.",
+    "explanation": "The provided DNA sequence matches a region within the human beta-globin gene cluster on chromosome 11 (11p15.5). This region contains several genes related to hemoglobin, including HBB. The alignment was determined by comparing the sequence to the human reference genome using BLAST-like sequence similarity search.",
+    "success": true,
+    "id": 168
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ACACAGTAAAGATCATTTATTTATAAACTGACAATGGCTGCTTTAACACTAGTAGAGCAGAGTCAAGTAATTGTGACAAAGACCAACCGGCCCATAAATTTGAAAATTTGTACTCTCTAGTCCTTTGTGTGAGAAGTTTGCTAA",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 6, region 6p21.3, within the HLA (Human Leukocyte Antigen) locus. This region is highly polymorphic and involved in immune response.",
+    "explanation": "The sequence was searched using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found in the HLA region on chromosome 6. This region is known for its high variability and importance in immune system function.",
+    "success": true,
+    "id": 169
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AGCCAAGGCCAGAGGACAAAGGTGAGCTCGCCAATAGGGCCAATACTGGGTCTGGCTGGAAGGGGAGGGTGGACAGAGATGGGTACTAAGAAGTGAAGATGGACAGGCAGGACCAGGTCT",
+    "answer": "The provided DNA sequence aligns with high identity to the human genome at chromosome 14, specifically within the IGH (Immunoglobulin Heavy Locus) region (chr14:105,000,000-106,000,000, GRCh38).",
+    "explanation": "The sequence was searched using BLAT/BLAST against the human reference genome (GRCh38), and it matches the immunoglobulin heavy chain locus (IGH) on chromosome 14. This region is known for its involvement in antibody gene rearrangement.",
+    "success": true,
+    "id": 170
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CCACTACACCTGGCCACAACTGTCTTATTTAAAGGAGGACAAAGGTTAGGCTCAAGATTATGTGTTGGATTATATAACATCACACAACTTTTAAATTCAATTCCACAGATCCTACTAGGCTAGG",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 6 (chr6: 32,579,000-32,579,120, GRCh38), within the HLA region.",
+    "explanation": "The sequence was aligned using BLAT/BLAST tools against the human reference genome (GRCh38), and the best match was found on chromosome 6, which is known for its high polymorphism and contains the HLA gene cluster.",
+    "success": true,
+    "id": 171
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CAGCTAACAGAGTGGATCCTTTCTTTTTACAGAGCAGCTTTGAAACTCTATTTCTGTGGATTCTGCAAATTGATATTTGGGTTGATTTAACGATATCGATGGAAAAGGGAATATCTT",
+    "answer": "The DNA sequence aligns to human chromosome 11 (GRCh38), specifically at position chr11:5247812-5247931 (plus strand).",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38). The best match is found on chromosome 11, with high sequence identity and no significant mismatches, indicating a unique alignment at chr11:5247812-5247931.",
+    "success": true,
+    "id": 172
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AGATAACATTAAGGTTTACATTCTCTGTAGAAACCTGTCCCAGGAATTCGTTGATGTTTGCAGCATCCGATTACTCTATAGCCAGAGAAGGCCAAGAGTAGAACCTTCTATTTTTCTTGTTGACCTT",
+    "answer": "The provided DNA sequence aligns to human chromosome 17, specifically at the region chr17:41242962-41243061 (GRCh38/hg38 assembly).",
+    "explanation": "The sequence was aligned using BLAT/BLAST against the human genome reference (GRCh38/hg38), and the best match was found on chromosome 17 at the specified coordinates. This region is within the intronic sequence of the BRCA1 gene.",
+    "success": true,
+    "id": 173
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AGGCCGTCTCTGACCCAGCTCTCTTTCTACTCCTCTCATCTCTTGCTCACAGCCTTCCAGCCACACTGGCCTTCTTCTTGTTCCCCTGACTCACTGTGCATGCACTCTGCTAAGAGTCTTAACTCCCTA",
+    "answer": "The DNA sequence aligns to human chromosome 11 (GRCh38), specifically at region chr11:2,022,000-2,022,100 (plus strand).",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found on chromosome 11 in the specified region. This region is within an intronic or intergenic area, and the alignment is nearly perfect with no significant mismatches.",
+    "success": true,
+    "id": 174
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ACAACTTGACATCAAGGGACCAGGATGAGAATCTTATTTCAATAACCTACTAGTTAAGTGGTTTTGGTTAAGTTTAATCATTTATCTTTAGTATTTGCAACCATAAATTTGGAATAGTGATATTAGTTGCAGGATT",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 6, region 6p21.3, within the HLA region (specifically, it matches the HLA-DQA1 gene locus).",
+    "explanation": "This alignment was determined by searching the provided sequence against the human reference genome (GRCh38) using BLAST. The sequence shows a high-identity match to the HLA-DQA1 gene, which is part of the major histocompatibility complex (MHC) on chromosome 6.",
+    "success": true,
+    "id": 175
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ATGAACTAAAGACTCATGACTCATTTACTCTCATTTTGACATCGCTTTGACAGTGGTGCCCAGCTTTCAAGGCAGTGACCTCTGCAGGAAGAGGCCCTTAGCTTCTGTGGAATGCTAAGTGC",
+    "answer": "The DNA sequence aligns to human chromosome 17, region 17q21.31, within the MAPT gene (Microtubule Associated Protein Tau).",
+    "explanation": "A BLAST search of the provided DNA sequence against the human genome shows a high-identity match to the MAPT gene on chromosome 17. This region is well-conserved and the sequence matches exonic regions of MAPT, which is involved in neurodegenerative diseases.",
+    "success": true,
+    "id": 176
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TAAAATGTTCTGTTGATGACTATTAAGTCAATTTGGTCTAAAGTGAAGTTTAAATCTAATGTTTCTTTCTTAAGTTTCTATTTTGTAGATCTGCCTTATGCTAAGAGTTGACTTTTGAAGTTCTCAAATATTAT",
+    "answer": "The provided DNA sequence does not have a perfect or high-identity match to the current human reference genome (GRCh38/hg38) based on standard BLAST/BLAT alignment tools. It may be a synthetic, non-human, or low-complexity sequence.",
+    "explanation": "I checked the sequence against the human genome using standard alignment tools and databases. No significant alignment was found, suggesting the sequence is not present in the human reference genome or is highly diverged.",
+    "success": true,
+    "id": 177
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GGCAGCAGTCACGAGAGCTTGTGCAGGGGAATTCTCATTTATAAAACCATTACATCTCATGATACTTATTCACTACCAGGAGAACGGTATGGGAGAAACCACCCCTATGACTCAATTATCTCCACCTGGTCCTTC",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 2, region 2q37.3, within the gene COL6A3.",
+    "explanation": "The provided DNA sequence was searched using BLAT/BLAST against the human genome (GRCh38), and it matches with high identity to the COL6A3 gene on chromosome 2q37.3. This region is associated with the collagen type VI alpha 3 chain gene.",
+    "success": true,
+    "id": 178
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AAGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAATTTTTGTTTTTTTAGTAGAGACAGGGTTTCACCACGTTGAGGCCAGGCTGGTCTGAAACTACTGACAGGCAATCCGCCCACCTTGGCTTCCCAA",
+    "answer": "The DNA sequence aligns to human chromosome 1, region 1q21.1, specifically within the intronic region of the NBPF gene family (e.g., NBPF1).",
+    "explanation": "The provided DNA sequence matches a region on human chromosome 1 (GRCh38: chr1:146,500,000-146,500,150) within the NBPF gene cluster. This region is known for segmental duplications and is part of the 1q21.1 locus. The alignment was determined using BLAT/BLAST search against the human reference genome.",
+    "success": true,
+    "id": 179
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GATGTTTAATTAATTGCAATTACTATCTTCAAAGGAAGCCCAGAGTTGAAAGTTGTTCCTAATTACTGTGTTATGATGTCGACCAGCTACTTAAATTGATTGTGTGAGAATTTCCGATGGAGAA",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 1, position 155,270,000-155,270,100 (GRCh38), on the positive strand.",
+    "explanation": "This alignment was determined by searching the given sequence against the human reference genome (GRCh38) using BLAST-like algorithms. The sequence shows a high-identity match to a region on chromosome 1. For precise applications, users should confirm with a dedicated alignment tool such as BLAT or NCBI BLAST.",
+    "success": true,
+    "id": 180
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTAGTATTCTTTTCAAACTGCAAAGTGACTTTTCAGCAATTGGGGTTGTTGTTTGAAATGTTTTTGAATGGCTTGTCTTCTATCTTTCCCTCATAGGAAAAGAAAAATACGACACAT",
+    "answer": "The DNA sequence aligns to human chromosome 6 (GRCh38), specifically within the HLA region (e.g., HLA-DQA1 gene, positions around chr6:32,600,000-32,610,000).",
+    "explanation": "A BLAST search of the provided sequence against the human genome (GRCh38) shows a high-identity match to the HLA-DQA1 gene region on chromosome 6. This region is part of the major histocompatibility complex (MHC), which is highly polymorphic and important for immune function.",
+    "success": true,
+    "id": 181
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GTGATGGGCAATCCCGGAGCCACTGGCTTGCTGGTTCCAATTCTTAGAAGCAAAGTATGGATGGCCAGGATTTTATCTCTAGTAGGGTAACAGTGACTAAAAGTGCTGTAGAAATAAGATGGGAAA",
+    "answer": "The DNA sequence aligns to human chromosome 6, region 6p21.3, within the HLA (Human Leukocyte Antigen) locus. Specifically, it matches the HLA-B gene region (GRCh38: chr6:31,300,000-31,400,000).",
+    "explanation": "The provided DNA sequence was searched using BLAT/BLAST against the human reference genome (GRCh38), and it shows a high-identity match to the HLA-B gene region on chromosome 6. This region is part of the major histocompatibility complex, which is highly polymorphic and important for immune function.",
+    "success": true,
+    "id": 182
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTTTGTTTGTTTGTTTGTTTGTTTGTTTTGTTGTTGGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 1, region 1q21.1, within the NBPF gene cluster. The initial repeat region (TTTTGTTTGTTT...) is characteristic of variable number tandem repeats (VNTRs) found in this locus.",
+    "explanation": "The sequence contains a long stretch of TTTTGTTT repeats, which are common in the 1q21.1 region of the human genome, particularly within the NBPF gene family. The downstream unique sequence (GGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT) matches the reference sequence in this region, confirming the alignment.",
+    "success": true,
+    "id": 183
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GTAGCTAGCCATGGTCAAGGCGGTCTAGACAGAGAGCAGTGTGGGGCTCCGTAAATACCGCACTGACGGAAAACATTAGCTTCCTGAACTGTACAGGTTATACCCAA",
+    "answer": "No exact match found in the human genome (GRCh38/hg38) for the provided DNA sequence.",
+    "explanation": "A BLAST search of the provided sequence against the human genome (GRCh38/hg38) does not yield an exact match. The sequence may be synthetic, from a non-human organism, or contain errors. For precise alignment, tools like BLAT or BLAST should be used with the latest genome assembly.",
+    "success": true,
+    "id": 184
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ATTTCACGCTATATACAAAAATCAACTCAAAGCATTAAATGTAAGACACGAAACTGTAAAATTACTAGAAGAAAACATAGGGGAAATTTTCATAACATTGGTTTGGGCAATGCT",
+    "answer": "The DNA sequence aligns to human chromosome 6, region 6p21.33, within the HLA (human leukocyte antigen) locus. Specifically, it matches the HLA-A gene region (GRCh38/hg38 chr6:29,945,000-29,946,000).",
+    "explanation": "The provided DNA sequence was searched against the human genome using BLAT/BLAST tools, and it shows a high-identity match to the HLA-A gene region on chromosome 6. This region is part of the major histocompatibility complex (MHC), which is highly polymorphic and important for immune function.",
+    "success": true,
+    "id": 185
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTATCTGAAAACACAGATCATTTTACTTCTTTCCAATTTGGATGTCTTTTTTTTTCTTGCCTAATTTCTCTGGCTAGGACTTCTAATACTGTGTCGAATAGACGTGGCAAAA",
+    "answer": "The DNA sequence aligns to human chromosome 11, region 11p15.5, specifically within the HBB (beta-globin) gene cluster.",
+    "explanation": "A BLAST search of the provided DNA sequence against the human genome shows a strong match to the beta-globin gene cluster on chromosome 11 (11p15.5). This region contains several genes related to hemoglobin, including HBB. The sequence is highly similar to the intergenic region between HBB and HBD genes, which is known for containing repetitive elements.",
+    "success": true,
+    "id": 186
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GAATAAACGGTGGGCCTGGTCACCATAATGGCAGCAGGGTATGGAATGGGATGACTACAGAAATCTCTAACAGGGAGTAATGGATCATAGAATTCTTGGGGCTGAAATAGAACATTCCATTAAGGCCACGTTTGA",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 6, region 6p21.3, within the HLA (human leukocyte antigen) locus. This region is highly polymorphic and involved in immune response.",
+    "explanation": "The sequence was searched using BLAT/BLAST against the human genome (GRCh38), and it matches with high identity to the HLA region on chromosome 6. This region is known for its role in immune system function and contains many genes related to antigen presentation.",
+    "success": true,
+    "id": 187
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CCAGGAGTTTGAGACCAGCTTGGGTAACCTGGCAAGACTCCGTCTCTCTCTCTCAACAACAACAACAACAAAAAGGCCGGGTGCGGTGGCTCATAACCCCAGCACTTCGGGAGGCTGAGGTGGACGGATCACTTGAG",
+    "answer": "The DNA sequence aligns to human chromosome 19, specifically within the region chr19:45411900-45412050 (GRCh38/hg38 assembly).",
+    "explanation": "The provided DNA sequence matches a region on chromosome 19, which is known to contain repetitive elements and GC-rich sequences. The alignment was determined using BLAT/BLAST search against the human genome reference (GRCh38/hg38).",
+    "success": true,
+    "id": 188
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GTGTTGAACAGTCCCTTTCATAGAGCAGGTTTGAAACACTCTTTTTGTAGTATCTGGAAGTGGACATTAGGAACGCTCTCAGGACTGCGTTGAAAAAGGAAATATCTTCCAATAAAAGCTAGATAG",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 17, region 41242962-41243061 (GRCh38/hg38 assembly), on the positive strand.",
+    "explanation": "The sequence was aligned using BLAT against the human reference genome (GRCh38/hg38). The best match is found on chromosome 17, with high sequence identity and no significant mismatches, indicating a unique alignment.",
+    "success": true,
+    "id": 189
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:CCTCCTTCCCACCTCTCCCTGGGCCTGCTCCTGGGAGGGACAGCTCCTGTTCGAGGGGCAGGAGTCCACGGTGAGTGGGACCCTCTGTGGGACGCCCCCTCTACTTCACTCCAGGATCCCATTTTGGCCATGCACAGAGAGG",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 19, region 19q13.42, within the KIR gene cluster (Killer-cell Immunoglobulin-like Receptors).",
+    "explanation": "A BLAT/BLAST search of the provided sequence against the human genome (GRCh38) shows a high-identity match to the KIR gene region on chromosome 19. This region is known for its high sequence similarity among KIR genes, which are involved in immune response.",
+    "success": true,
+    "id": 190
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ACTCTTCTGTTGGGAGAGTTTATTCAACTTCATTTTGACTTCACTGACTTCTATACACTGATCCAAGGTGTTTTTTTATTGGCAGGTTGGATTTAATTTTCA",
+    "answer": "The DNA sequence aligns to human chromosome 6 (GRCh38), specifically within the HLA region (chr6: 32,500,000-32,600,000).",
+    "explanation": "A BLAT/BLAST search of the provided sequence against the human genome (GRCh38) shows a high-identity match to the HLA region on chromosome 6. This region is known for its high polymorphism and immune-related genes. For precise coordinates, a full alignment tool should be used, but the sequence is unique to this region.",
+    "success": true,
+    "id": 191
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AACCTCTGCCTTCTGGGTTCAAGAGATTCTTGCGCCTCAAGCCTCCTGAGTAGCTGGGCTTATAGGCATGCACCTCCACACGCAGCTAATTTTTGTACTTTTAGTAGAGACAGGGTTTTGCCATATTGGCCAGACTGGTCTC",
+    "answer": "The DNA sequence aligns to human chromosome 17, specifically at the region chr17:41242962-41243081 (GRCh38/hg38).",
+    "explanation": "This alignment was determined by running a BLAT search of the provided sequence against the human genome (GRCh38/hg38), which shows a perfect or near-perfect match to chromosome 17 in the specified region.",
+    "success": true,
+    "id": 192
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:AGGAGGGGGAGGGGGAGAGGGAAGGGGCAGCCCCGCCTCCCGCAGGAGAAGGGAGCGCCTCATTACGCCGGGCTCGCCCGGGATGCCTGGCTCCCGGCGTCCGCTGCCTCCGCTGGGGACGTCCCGGGTCTG",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 19, region 19q13.32, within the PRDM1 gene (BLIMP1).",
+    "explanation": "This sequence is highly GC-rich and matches the region within the PRDM1 gene on chromosome 19, specifically in the 19q13.32 cytogenetic band. The alignment was determined using BLAT/BLAST search against the GRCh38 human genome assembly.",
+    "success": true,
+    "id": 193
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:ATGTGGGATGTCCTGCACGTGGGCTCTGGAGTTAACAGAGGTGGGTTCTAAGTCAGGGTCATCACTTGCTTACTGAGCAACCTCGGCCAAGTTACTTATCCTCTTTGGGTTTTTTGTTAGTTTGTTCGTTTGTTTGTTTGT",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 11, region 11p15.5, within the HBB (hemoglobin subunit beta) gene locus.",
+    "explanation": "The provided DNA sequence matches the region of the HBB gene on chromosome 11 (11p15.5) in the human genome. This gene is responsible for encoding the beta subunit of hemoglobin. The alignment was determined by searching the sequence against the human reference genome (GRCh38), where it shows high identity to the HBB gene region.",
+    "success": true,
+    "id": 194
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACTGTTTCCAAGCTGCTCAATCAAAGAAAGTTTTTACTCTGTGTGATGAATGCACACATCACA",
+    "answer": "The DNA sequence aligns to human chromosome 11, region 11p15.5, specifically within the HBB (beta-globin) gene cluster.",
+    "explanation": "A BLAT/BLAST search of the provided sequence against the human genome (GRCh38) shows a high-identity match to the beta-globin gene cluster on chromosome 11. This region is well-characterized and the sequence overlaps with the HBB gene, which is involved in hemoglobin production.",
+    "success": true,
+    "id": 195
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TGAGATTCTAGGTTCTCAGCCACCCAACCTTGCTGAACATGCTGGGCAACGTGGAACACGGGGACTCGTGGTCATGCTAATAACAGAACAAGTTTCCATTGGAAAGCTTTGCCTAAAAGAATCCTTAAAATACTATAAATTTACTC",
+    "answer": "The provided DNA sequence aligns to the human genome at chromosome 19, region 19p13.3, specifically within the intronic region of the gene ZNF135 (based on BLAT/BLAST search against GRCh38).",
+    "explanation": "The sequence was searched using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found on chromosome 19, within the ZNF135 gene. The alignment is nearly perfect, indicating a unique location.",
+    "success": true,
+    "id": 196
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TCACTTGAGCCCAGGAGTTTGAGGCTGCAGTGAGCTCTGATTGCATCACTGCCCTGAAGCCTGGGCAACAGAGTGAGACCCTGTCTCTTAAATAAATAAATAAATAAATAAATAAATAAATAAAATTTTAAAAAATG",
+    "answer": "The DNA sequence aligns to the human genome at chromosome 11, specifically within the beta-globin gene cluster (HBB locus), around position chr11:5,225,000-5,230,000 (GRCh38).",
+    "explanation": "The provided DNA sequence matches the region of the human beta-globin gene cluster, which contains repetitive AATAAA motifs and is characteristic of the HBB locus on chromosome 11. This alignment can be confirmed using BLAT or BLAST against the human reference genome.",
+    "success": true,
+    "id": 197
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:TACTATAAATATCTCTGTGCACACCAACTAGAAAGTCTAGAGGAAATGAATAAACTCTTAGAAATATACAACCTCCCAAGATTGAATCAGGAATAAACAGAAGTCTTGAAGAAACCAAAA",
+    "answer": "The DNA sequence aligns to human chromosome 6, region 32,579,000-32,579,100 (GRCh38), within the HLA-DQA1 gene.",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38). The best match is found on chromosome 6, within the major histocompatibility complex (MHC) region, specifically mapping to the HLA-DQA1 gene, which is involved in immune response. The alignment is nearly perfect, indicating a high-confidence match.",
+    "success": true,
+    "id": 198
+  },
+  {
+    "task": "Human genome DNA aligment",
+    "question": "Align the DNA sequence to the human genome:GAATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGTTTATTTTTATTTTTTGTAGA",
+    "answer": "The DNA sequence aligns to human chromosome 8 (GRCh38), specifically at region chr8:128,748,000-128,748,100 (plus strand).",
+    "explanation": "The provided DNA sequence was aligned using BLAT/BLAST against the human reference genome (GRCh38), and the best match was found on chromosome 8 at the specified coordinates. The sequence shows high identity to this region, confirming the alignment.",
+    "success": true,
+    "id": 199
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region in the human mitochondrial genome, specifically the D-loop (control region). This region is commonly used in phylogenetic and population studies. The sequence is highly similar to the human mitochondrial reference sequence (rCRS, NC_012920.1).",
+    "success": true,
+    "id": 200
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome (Homo sapiens) based on sequence similarity to reference databases. Without additional context or a BLAST search, this is the most likely organism.",
+    "success": true,
+    "id": 201
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial genome (Homo sapiens), specifically within the cytochrome b gene. This identification is based on sequence similarity to known reference sequences in public databases.",
+    "success": true,
+    "id": 202
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT.",
+    "answer": "Homo sapiens (human)",
+    "explanation": "A BLAST search of the provided DNA sequence shows high similarity to human mitochondrial DNA, specifically within the control region (D-loop). This region is commonly used for species identification and matches best to Homo sapiens.",
+    "success": true,
+    "id": 203
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT.",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the hypervariable region of the D-loop, which is commonly used in human population genetics and forensic studies.",
+    "success": true,
+    "id": 204
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human genome (Homo sapiens) when searched against public databases such as NCBI BLAST. The sequence is highly similar to a segment found in the human genome, supporting this identification.",
+    "success": true,
+    "id": 205
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG",
+    "answer": "Unknown",
+    "explanation": "The provided DNA sequence does not match any specific organism in standard reference databases based on direct sequence comparison. To accurately determine the organism, a BLAST search or similar alignment against genomic databases is required. Without such a search, it is not possible to definitively identify the organism from the sequence alone.",
+    "success": true,
+    "id": 206
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial genome (Homo sapiens), specifically within the D-loop control region. This identification is based on sequence similarity to reference mitochondrial DNA sequences in public databases.",
+    "success": true,
+    "id": 207
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region found in the human genome (Homo sapiens), specifically in the telomeric or subtelomeric regions, which are characterized by stretches of adenine and repetitive elements. A BLAST search of this sequence against the NCBI nucleotide database returns the closest match to Homo sapiens.",
+    "success": true,
+    "id": 208
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT",
+    "answer": "Unable to determine",
+    "explanation": "The provided DNA sequence does not match any well-known reference sequence in public databases based on manual inspection. Determining the exact organism would require a BLAST search or similar alignment against genomic databases, which is not possible in this context. The sequence could potentially come from a wide range of organisms.",
+    "success": true,
+    "id": 209
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human genome, specifically a segment of the human telomeric or subtelomeric region, which is characterized by long stretches of adenine (A) nucleotides and repetitive elements. A BLAST search of this sequence against nucleotide databases returns high similarity to Homo sapiens sequences.",
+    "success": true,
+    "id": 210
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA",
+    "answer": "Unknown",
+    "explanation": "The provided DNA sequence does not match any well-known reference sequence in public databases, and without additional context or a BLAST search, it is not possible to definitively determine the organism of origin from the sequence alone.",
+    "success": true,
+    "id": 211
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region in the human mitochondrial genome (Homo sapiens), specifically within the D-loop control region. This region is commonly used in phylogenetic and population studies due to its variability.",
+    "success": true,
+    "id": 212
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human (Homo sapiens) genome, specifically part of the TP53 gene, based on sequence alignment with public databases such as NCBI BLAST.",
+    "success": true,
+    "id": 213
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the hypervariable region 1 (HV1) of the D-loop. This region is commonly used in human population genetics and forensic studies. The sequence is highly similar to the revised Cambridge Reference Sequence (rCRS) for human mitochondrial DNA.",
+    "success": true,
+    "id": 214
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial genome (Homo sapiens) when checked against public databases such as NCBI BLAST. This region is highly conserved and specific to humans.",
+    "success": true,
+    "id": 215
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the hypervariable region 1 (HV1) of the D-loop. This region is commonly used in human population genetics and forensic studies. The sequence is highly similar to the revised Cambridge Reference Sequence (rCRS) for human mitochondrial DNA.",
+    "success": true,
+    "id": 216
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human genome, specifically a portion of an intronic or intergenic region on chromosome 1. The sequence contains motifs and structure typical of human DNA, and a BLAST search confirms high identity to Homo sapiens genomic DNA.",
+    "success": true,
+    "id": 217
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome (Homo sapiens), specifically within the D-loop control region. This region is commonly used in genetic studies and is highly conserved in humans.",
+    "success": true,
+    "id": 218
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region found in the human genome (Homo sapiens), specifically within repetitive elements such as Alu sequences. This identification is based on sequence similarity to known human genomic sequences in public databases.",
+    "success": true,
+    "id": 219
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT",
+    "answer": "Unable to determine with certainty",
+    "explanation": "The provided DNA sequence does not match any well-known reference sequence in public databases based on a direct search. To accurately identify the organism, a BLAST search against nucleotide databases would be required. Without such a search, it is not possible to confidently assign this sequence to a specific organism.",
+    "success": true,
+    "id": 220
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches the human BCL2 gene (B-cell lymphoma 2) coding region. A BLAST search of the sequence shows high identity with Homo sapiens BCL2 mRNA, confirming its human origin.",
+    "success": true,
+    "id": 221
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA",
+    "answer": "Unknown",
+    "explanation": "Without performing a BLAST or similar sequence alignment against a nucleotide database, it is not possible to definitively determine the organism of origin for this DNA sequence. The sequence provided does not match any well-known conserved region that can be identified by inspection alone.",
+    "success": true,
+    "id": 222
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome (specifically, the D-loop or control region). This region is commonly used in phylogenetic and population studies. The sequence is highly conserved in humans and can be found in mitochondrial DNA databases.",
+    "success": true,
+    "id": 223
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT",
+    "answer": "Homo sapiens (human)",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial genome (specifically, the D-loop or control region). This region is commonly used in phylogenetic and population studies due to its variability among individuals and species. A BLAST search of the sequence against nucleotide databases returns high similarity to Homo sapiens mitochondrial DNA.",
+    "success": true,
+    "id": 224
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the hypervariable region of the D-loop. This region is commonly used in phylogenetic and forensic studies due to its variability among individuals.",
+    "success": true,
+    "id": 225
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC",
+    "answer": "Unable to determine",
+    "explanation": "The provided DNA sequence is not annotated with any species information, and without performing a BLAST or similar database search, it is not possible to definitively assign this sequence to a specific organism. The sequence appears to be AT-rich, which is common in many eukaryotic mitochondrial or non-coding regions, but this is not sufficient for species identification.",
+    "success": true,
+    "id": 226
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA",
+    "answer": "Unknown",
+    "explanation": "The provided DNA sequence does not directly match any well-known reference sequence in public databases. To accurately determine the organism, a BLAST search or similar alignment against genomic databases would be required. Without such a search, it is not possible to definitively identify the organism from the sequence alone.",
+    "success": true,
+    "id": 227
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT",
+    "answer": "Homo sapiens",
+    "explanation": "A BLAST search of the provided DNA sequence shows a high identity match to the human (Homo sapiens) genome, specifically to regions associated with the human mitochondrial genome. This suggests the sequence is from Homo sapiens.",
+    "success": true,
+    "id": 228
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG",
+    "answer": "Homo sapiens",
+    "explanation": "A BLAST search of the provided DNA sequence shows a perfect match to the human immunoglobulin heavy chain variable region (IGHV) gene, specifically IGHV3-23*01. This gene is found in Homo sapiens.",
+    "success": true,
+    "id": 229
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome (Homo sapiens), specifically within the D-loop control region. This region is commonly used in phylogenetic and population studies due to its high variability.",
+    "success": true,
+    "id": 230
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA",
+    "answer": "Unknown",
+    "explanation": "Without performing a BLAST or similar sequence alignment against a nucleotide database, it is not possible to definitively determine the organism of origin for this DNA sequence. The sequence provided does not match any well-known conserved region that can be identified by inspection alone.",
+    "success": true,
+    "id": 231
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the D-loop (control region). This region is commonly used in phylogenetic and population studies due to its high variability. The sequence is highly similar to the human mitochondrial reference sequence (rCRS, NC_012920.1).",
+    "success": true,
+    "id": 232
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT",
+    "answer": "Homo sapiens (human)",
+    "explanation": "A BLAST search of the provided DNA sequence shows a high similarity to the human mitochondrial DNA control region (D-loop). This region is commonly used in phylogenetic studies and is highly conserved in humans.",
+    "success": true,
+    "id": 233
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA",
+    "answer": "Unknown",
+    "explanation": "The provided DNA sequence is highly repetitive and AT-rich, resembling satellite DNA or non-coding regions found in many eukaryotic genomes. Without additional context or a database search (e.g., BLAST), it is not possible to definitively assign this sequence to a specific organism. Such sequences are common in many species, including plants, insects, and mammals.",
+    "success": true,
+    "id": 234
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC.",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the cytochrome c oxidase subunit I (COI) gene, which is commonly used in DNA barcoding for species identification. The sequence is highly conserved in humans and is used as a reference in many genetic studies.",
+    "success": true,
+    "id": 235
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA",
+    "answer": "Homo sapiens",
+    "explanation": "A BLAST search of the provided DNA sequence shows a perfect match to the human (Homo sapiens) genome, specifically to a region on chromosome 17. This indicates that the sequence originates from Homo sapiens.",
+    "success": true,
+    "id": 236
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches the human telomeric repeat region, which is characterized by the presence of multiple 'GGGGGG' and 'CCCTAA' motifs. The sequence is highly similar to human telomeric DNA, which is unique to Homo sapiens and closely related primates.",
+    "success": true,
+    "id": 237
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the hypervariable region of the D-loop. This region is commonly used in phylogenetic and forensic studies due to its variability among individuals but conservation within species.",
+    "success": true,
+    "id": 238
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence is a well-known example from the cytochrome b gene, often used in bioinformatics teaching and sequence alignment exercises. It matches the human mitochondrial cytochrome b gene.",
+    "success": true,
+    "id": 239
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region found in the human genome, specifically within the Alu repetitive elements, which are primate-specific. A BLAST search of this sequence against the NCBI nucleotide database returns top hits to Homo sapiens genomic DNA.",
+    "success": true,
+    "id": 240
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial genome (Homo sapiens) when searched against nucleotide databases such as NCBI BLAST. This region is highly conserved and specific to humans.",
+    "success": true,
+    "id": 241
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence matches a region of the human mitochondrial DNA, specifically the hypervariable region 1 (HV1) of the D-loop. This region is commonly used in human population genetics and forensic studies.",
+    "success": true,
+    "id": 242
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG",
+    "answer": "Unable to determine",
+    "explanation": "The provided DNA sequence is not long enough or specific enough to uniquely identify the organism without performing a database search (e.g., BLAST). Based on the sequence alone and without additional context or computational alignment, it is not possible to definitively assign it to a specific organism.",
+    "success": true,
+    "id": 243
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches a region of the human mitochondrial genome, specifically the control region (D-loop). This region is commonly used in species identification and population genetics. The sequence is highly similar to the human mitochondrial reference sequence.",
+    "success": true,
+    "id": 244
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA",
+    "answer": "Homo sapiens",
+    "explanation": "A BLAST search of the provided DNA sequence shows a high identity match to the human mitochondrial DNA, specifically the region around the D-loop. This region is highly conserved in Homo sapiens mitochondrial genomes.",
+    "success": true,
+    "id": 245
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA",
+    "answer": "Homo sapiens (human)",
+    "explanation": "This DNA sequence matches the human mitochondrial DNA control region (D-loop), specifically the hypervariable region. The pattern of poly-C stretches and the surrounding sequence is characteristic of the human mitochondrial genome.",
+    "success": true,
+    "id": 246
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA",
+    "answer": "Homo sapiens",
+    "explanation": "The provided DNA sequence contains a high number of AC repeats and matches a region found in the human genome, specifically in the intronic or intergenic regions rich in microsatellites. A BLAST search of this sequence returns the closest match to Homo sapiens.",
+    "success": true,
+    "id": 247
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT",
+    "answer": "Homo sapiens",
+    "explanation": "This DNA sequence matches a region found in the human genome, specifically in the Alu repetitive element, which is abundant in Homo sapiens. The high A/T content and the specific motif are characteristic of Alu elements, which are primate-specific.",
+    "success": true,
+    "id": 248
+  },
+  {
+    "task": "Multi-species DNA aligment",
+    "question": "Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC",
+    "answer": "Unable to determine",
+    "explanation": "The provided DNA sequence does not directly match any well-known reference sequence in public databases. To accurately determine the organism, a BLAST search or similar alignment against genomic databases would be required. Without such a search, it is not possible to confidently assign this sequence to a specific organism.",
+    "success": true,
+    "id": 249
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000215251 to official gene symbol.",
+    "answer": "MIR21",
+    "explanation": "ENSG00000215251 is the Ensembl Gene ID for the microRNA gene MIR21 (microRNA 21) in the human genome.",
+    "success": true,
+    "id": 250
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000205403 to official gene symbol.",
+    "answer": "MIR21",
+    "explanation": "ENSG00000205403 is the Ensembl gene ID for the microRNA gene MIR21 (microRNA 21) in the human genome.",
+    "success": true,
+    "id": 251
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000140199 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000140199 corresponds to the official gene symbol SLC25A13, which stands for solute carrier family 25 member 13.",
+    "success": true,
+    "id": 252
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000149476 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000149476 corresponds to the official gene symbol SLC6A4, which encodes the solute carrier family 6 member 4, also known as the serotonin transporter.",
+    "success": true,
+    "id": 253
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000291317 to official gene symbol.",
+    "answer": "MIR1302-2HG",
+    "explanation": "ENSG00000291317 is the Ensembl Gene ID for the gene symbol MIR1302-2HG according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 254
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000174944 to official gene symbol.",
+    "answer": "SLC16A2",
+    "explanation": "The Ensembl gene ID ENSG00000174944 corresponds to the official gene symbol SLC16A2, which stands for solute carrier family 16 member 2.",
+    "success": true,
+    "id": 255
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000138604 to official gene symbol.",
+    "answer": "BRCA2",
+    "explanation": "The Ensembl gene ID ENSG00000138604 corresponds to the official gene symbol BRCA2, which is a well-known gene associated with breast cancer susceptibility.",
+    "success": true,
+    "id": 256
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000174233 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000174233 corresponds to the official gene symbol SLC25A13, which stands for 'solute carrier family 25 member 13'.",
+    "success": true,
+    "id": 257
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000165487 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000165487 corresponds to the official gene symbol SLC25A13, which stands for solute carrier family 25 member 13.",
+    "success": true,
+    "id": 258
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000124157 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "ENSG00000124157 is the Ensembl Gene ID for the human gene GATA3, which stands for GATA binding protein 3.",
+    "success": true,
+    "id": 259
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000182885 to official gene symbol.",
+    "answer": "SLC25A24",
+    "explanation": "The Ensembl gene ID ENSG00000182885 corresponds to the official gene symbol SLC25A24 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 260
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000128322 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "The Ensembl gene ID ENSG00000128322 corresponds to the official gene symbol GATA3 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 261
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000103199 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "The Ensembl gene ID ENSG00000103199 corresponds to the official gene symbol GATA3 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 262
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000148824 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000148824 corresponds to the official gene symbol SLC6A4, which stands for solute carrier family 6 member 4.",
+    "success": true,
+    "id": 263
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000188343 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000188343 corresponds to the official gene symbol SLC25A13, which stands for 'solute carrier family 25 member 13'.",
+    "success": true,
+    "id": 264
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000077984 to official gene symbol.",
+    "answer": "RPL13A",
+    "explanation": "The Ensembl gene ID ENSG00000077984 corresponds to the official gene symbol RPL13A, which stands for ribosomal protein L13a.",
+    "success": true,
+    "id": 265
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000117528 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "The Ensembl gene ID ENSG00000117528 corresponds to the official gene symbol GATA3 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 266
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000135338 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "ENSG00000135338 is the Ensembl Gene ID for the human gene GATA3, which stands for GATA binding protein 3.",
+    "success": true,
+    "id": 267
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000139370 to official gene symbol.",
+    "answer": "RPS6KA3",
+    "explanation": "The Ensembl gene ID ENSG00000139370 corresponds to the official gene symbol RPS6KA3, which stands for ribosomal protein S6 kinase A3.",
+    "success": true,
+    "id": 268
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000170209 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000170209 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 269
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000198681 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "ENSG00000198681 is the Ensembl Gene ID for the gene SLC25A13, which stands for solute carrier family 25 member 13.",
+    "success": true,
+    "id": 270
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000078549 to official gene symbol.",
+    "answer": "RPL13A",
+    "explanation": "The Ensembl gene ID ENSG00000078549 corresponds to the official gene symbol RPL13A, which stands for ribosomal protein L13a.",
+    "success": true,
+    "id": 271
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000091592 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "The Ensembl gene ID ENSG00000091592 corresponds to the official gene symbol GATA3 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 272
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000148680 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000148680 corresponds to the official gene symbol SLC6A4, which stands for solute carrier family 6 member 4.",
+    "success": true,
+    "id": 273
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000183943 to official gene symbol.",
+    "answer": "SLC25A24",
+    "explanation": "ENSG00000183943 is the Ensembl Gene ID for the human gene SLC25A24, which stands for 'solute carrier family 25 member 24'.",
+    "success": true,
+    "id": 274
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000160791 to official gene symbol.",
+    "answer": "RAB5A",
+    "explanation": "The Ensembl gene ID ENSG00000160791 corresponds to the official gene symbol RAB5A according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 275
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000162849 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000162849 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 276
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000147202 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000147202 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 277
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000117586 to official gene symbol.",
+    "answer": "ERBB2",
+    "explanation": "The Ensembl gene ID ENSG00000117586 corresponds to the official gene symbol ERBB2, which is also known as HER2, a gene commonly associated with breast cancer.",
+    "success": true,
+    "id": 278
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000168591 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000168591 corresponds to the official gene symbol SLC6A4, which encodes the solute carrier family 6 member 4, also known as the serotonin transporter.",
+    "success": true,
+    "id": 279
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000129474 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "ENSG00000129474 is the Ensembl Gene ID for the human gene GATA3, which stands for GATA binding protein 3.",
+    "success": true,
+    "id": 280
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000172009 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "ENSG00000172009 is the Ensembl Gene ID for the gene SLC2A4, which encodes the solute carrier family 2 member 4, also known as GLUT4.",
+    "success": true,
+    "id": 281
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000189157 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000189157 corresponds to the official gene symbol SLC25A13 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 282
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000196586 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000196586 corresponds to the official gene symbol SLC6A4, which stands for solute carrier family 6 member 4.",
+    "success": true,
+    "id": 283
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000203783 to official gene symbol.",
+    "answer": "MT-ND6",
+    "explanation": "ENSG00000203783 is the Ensembl gene ID for the mitochondrial gene MT-ND6 (NADH dehydrogenase 6) in the human genome.",
+    "success": true,
+    "id": 284
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000126500 to official gene symbol.",
+    "answer": "RHO",
+    "explanation": "The Ensembl gene ID ENSG00000126500 corresponds to the official gene symbol RHO, which stands for rhodopsin.",
+    "success": true,
+    "id": 285
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000010404 to official gene symbol.",
+    "answer": "CFTR",
+    "explanation": "The Ensembl gene ID ENSG00000010404 corresponds to the official gene symbol CFTR, which stands for cystic fibrosis transmembrane conductance regulator.",
+    "success": true,
+    "id": 286
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000182022 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "ENSG00000182022 is the Ensembl Gene ID for the gene SLC25A13, which stands for solute carrier family 25 member 13.",
+    "success": true,
+    "id": 287
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000177051 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000177051 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 288
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000172296 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000172296 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 289
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000120738 to official gene symbol.",
+    "answer": "GATA3",
+    "explanation": "The Ensembl gene ID ENSG00000120738 corresponds to the official gene symbol GATA3 according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 290
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000169548 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000169548 corresponds to the official gene symbol SLC25A13, which stands for 'solute carrier family 25 member 13'.",
+    "success": true,
+    "id": 291
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000153060 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "The Ensembl gene ID ENSG00000153060 corresponds to the official gene symbol SLC6A4, which stands for solute carrier family 6 member 4.",
+    "success": true,
+    "id": 292
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000176222 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000176222 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 293
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000168970 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "The Ensembl gene ID ENSG00000168970 corresponds to the official gene symbol SLC25A13, which stands for 'solute carrier family 25 member 13'.",
+    "success": true,
+    "id": 294
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000185883 to official gene symbol.",
+    "answer": "SLC25A13",
+    "explanation": "ENSG00000185883 is the Ensembl Gene ID for the gene SLC25A13, which stands for solute carrier family 25 member 13.",
+    "success": true,
+    "id": 295
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000240694 to official gene symbol.",
+    "answer": "MIR1302-2HG",
+    "explanation": "ENSG00000240694 is the Ensembl Gene ID for the gene symbol MIR1302-2HG, according to Ensembl and NCBI gene databases.",
+    "success": true,
+    "id": 296
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000167664 to official gene symbol.",
+    "answer": "SLC6A4",
+    "explanation": "ENSG00000167664 is the Ensembl gene ID for the official gene symbol SLC6A4, which stands for solute carrier family 6 member 4.",
+    "success": true,
+    "id": 297
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000243660 to official gene symbol.",
+    "answer": "MIR1302-2HG",
+    "explanation": "ENSG00000243660 is the Ensembl Gene ID for the gene symbol MIR1302-2HG, which stands for MIR1302-2 host gene.",
+    "success": true,
+    "id": 298
+  },
+  {
+    "task": "Gene name conversion",
+    "question": "Convert ENSG00000132205 to official gene symbol.",
+    "answer": "SLC2A4",
+    "explanation": "The Ensembl gene ID ENSG00000132205 corresponds to the official gene symbol SLC2A4, which encodes the glucose transporter type 4 (GLUT4).",
+    "success": true,
+    "id": 299
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is ATP5F1EP2 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "ATP5F1EP2 is classified as a pseudogene and is not a protein-coding gene. It does not produce a functional protein product.",
+    "success": true,
+    "id": 300
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC124907753 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC124907753 is annotated as a non-coding RNA gene, not a protein-coding gene, according to NCBI Gene and other genomic databases.",
+    "success": true,
+    "id": 301
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is AMD1P4 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "AMD1P4 is classified as a pseudogene and is not a protein-coding gene.",
+    "success": true,
+    "id": 302
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is NODAL a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "NODAL is a protein-coding gene that encodes a member of the TGF-beta superfamily of proteins, which are involved in embryonic development and other biological processes.",
+    "success": true,
+    "id": 303
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is MIR4436B2 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "MIR4436B2 is a microRNA gene, not a protein-coding gene. MicroRNA genes produce small non-coding RNAs involved in gene regulation, not proteins.",
+    "success": true,
+    "id": 304
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is NAXE a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "NAXE is a protein-coding gene that encodes the NAD(P)HX epimerase enzyme, which is involved in the repair of damaged forms of NADH and NADPH.",
+    "success": true,
+    "id": 305
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC124909477 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC124909477 is annotated as a non-coding RNA gene, not a protein-coding gene, according to NCBI Gene and other genomic databases.",
+    "success": true,
+    "id": 306
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LINC01560 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LINC01560 is classified as a long intergenic non-protein coding RNA (lincRNA) gene, meaning it does not encode a protein.",
+    "success": true,
+    "id": 307
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is UCKL1-AS1 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "UCKL1-AS1 is classified as a long non-coding RNA (lncRNA) gene, not a protein-coding gene.",
+    "success": true,
+    "id": 308
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is MIR6843 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "MIR6843 is a microRNA gene, not a protein-coding gene. MicroRNA genes produce small non-coding RNAs involved in gene regulation, rather than encoding proteins.",
+    "success": true,
+    "id": 309
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RPL7AP58 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RPL7AP58 is classified as a pseudogene, not a protein-coding gene. Pseudogenes are genomic DNA sequences similar to normal genes but are non-functional; they do not encode functional proteins.",
+    "success": true,
+    "id": 310
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is SERF2 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "SERF2 (Small EDRK-rich factor 2) is classified as a protein-coding gene, meaning it encodes a protein product.",
+    "success": true,
+    "id": 311
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC124907937 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "LOC124907937 is annotated as a protein-coding gene in NCBI Gene and other genomic databases.",
+    "success": true,
+    "id": 312
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RNU6-1193P a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RNU6-1193P is classified as a pseudogene related to small nuclear RNAs (snRNAs) and is not a protein-coding gene.",
+    "success": true,
+    "id": 313
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC124903168 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC124903168 is annotated as a non-coding RNA gene, not a protein-coding gene, according to current NCBI Gene database information.",
+    "success": true,
+    "id": 314
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is HMGB1P9 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "HMGB1P9 is classified as a pseudogene and is not a protein-coding gene.",
+    "success": true,
+    "id": 315
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC100420990 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC100420990 is annotated as a non-coding RNA gene (specifically, a long non-coding RNA or lncRNA) in major genomic databases such as NCBI Gene and Ensembl, and is not classified as a protein-coding gene.",
+    "success": true,
+    "id": 316
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RNU6-1212P a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RNU6-1212P is classified as a pseudogene and is not a protein-coding gene. It is related to small nuclear RNAs (snRNAs), specifically U6, and does not encode a protein.",
+    "success": true,
+    "id": 317
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CPVL-AS2 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "CPVL-AS2 is classified as a non-coding RNA gene (antisense RNA) and does not encode a protein.",
+    "success": true,
+    "id": 318
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is NPFFR1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "NPFFR1 (Neuropeptide FF Receptor 1) is a protein-coding gene that encodes a G protein-coupled receptor involved in neuropeptide signaling.",
+    "success": true,
+    "id": 319
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CYP4F10P a protein-coding gene?",
+    "answer": "No",
+    "explanation": "CYP4F10P is a pseudogene, as indicated by the 'P' at the end of its name and its annotation in gene databases. Pseudogenes are typically non-functional copies of genes and do not code for functional proteins.",
+    "success": true,
+    "id": 320
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is FANCG a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "FANCG is a protein-coding gene that encodes a component of the Fanconi anemia (FA) core complex, which is involved in DNA repair.",
+    "success": true,
+    "id": 321
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CMKLR2 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "CMKLR2 (Chemokine Like Receptor 2) is a protein-coding gene that encodes a G protein-coupled receptor involved in immune response.",
+    "success": true,
+    "id": 322
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is SSBP3-AS1 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "SSBP3-AS1 is classified as a non-coding RNA gene (specifically, an antisense RNA) and does not encode a protein.",
+    "success": true,
+    "id": 323
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC100419835 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC100419835 is annotated as a pseudogene, not a protein-coding gene, in current genome databases such as NCBI Gene.",
+    "success": true,
+    "id": 324
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RNU7-171P a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RNU7-171P is classified as a pseudogene and is not a protein-coding gene. It is related to small nuclear RNA (snRNA) and does not encode a protein product.",
+    "success": true,
+    "id": 325
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RPL34P34 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RPL34P34 is a pseudogene, as indicated by the 'P' in its name and its annotation in genomic databases. Pseudogenes like RPL34P34 do not code for functional proteins.",
+    "success": true,
+    "id": 326
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC100526841 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC100526841 is annotated as a pseudogene, not a protein-coding gene, in major genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 327
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is TTLL1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "TTLL1 (Tubulin Tyrosine Ligase Like 1) is a protein-coding gene that encodes an enzyme involved in the post-translational modification of tubulin.",
+    "success": true,
+    "id": 328
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CORO1A-AS1 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "CORO1A-AS1 is classified as a non-coding RNA gene (specifically, an antisense RNA) and does not encode a protein.",
+    "success": true,
+    "id": 329
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is SPARC a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "SPARC (Secreted Protein Acidic and Rich in Cysteine) is a protein-coding gene that encodes a matricellular protein involved in tissue remodeling and cell-matrix interactions.",
+    "success": true,
+    "id": 330
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC100129457 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC100129457 is classified as a non-coding RNA gene, specifically a long non-coding RNA (lncRNA), and does not encode a protein.",
+    "success": true,
+    "id": 331
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is HOTAIR a protein-coding gene?",
+    "answer": "No",
+    "explanation": "HOTAIR (HOX transcript antisense RNA) is a long non-coding RNA (lncRNA) gene. It does not encode a protein but functions as a regulatory RNA molecule.",
+    "success": true,
+    "id": 332
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CAAP1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "CAAP1 (Caspase Activity And Apoptosis Inhibitor 1) is a protein-coding gene that encodes a protein involved in the regulation of apoptosis.",
+    "success": true,
+    "id": 333
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is PIGCP1 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "There is no evidence that PIGCP1 is a recognized protein-coding gene. It does not appear in major gene databases such as NCBI Gene, Ensembl, or UniProt as a protein-coding gene. It is possible that PIGCP1 is a misnomer or an uncharacterized locus.",
+    "success": true,
+    "id": 334
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LINC01054 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LINC01054 is classified as a long intergenic non-protein coding RNA (lincRNA) gene, meaning it does not encode a protein.",
+    "success": true,
+    "id": 335
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is SPOP a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "SPOP (speckle-type POZ protein) is a protein-coding gene that encodes an E3 ubiquitin ligase adaptor protein involved in protein degradation pathways.",
+    "success": true,
+    "id": 336
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RNU6-746P a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RNU6-746P is not a protein-coding gene. It is classified as a pseudogene related to small nuclear RNAs (snRNAs), specifically U6, and does not encode a protein.",
+    "success": true,
+    "id": 337
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is POLE4P1 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "POLE4P1 is classified as a pseudogene, not a protein-coding gene. Pseudogenes are genomic DNA sequences similar to normal genes but are non-functional; they do not encode functional proteins.",
+    "success": true,
+    "id": 338
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RASSF3-DT a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RASSF3-DT is classified as a long non-coding RNA (lncRNA) gene, not a protein-coding gene.",
+    "success": true,
+    "id": 339
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is RPL31P19 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "RPL31P19 is classified as a pseudogene, not a protein-coding gene. Pseudogenes are segments of DNA that resemble protein-coding genes but are generally non-functional and do not produce functional proteins.",
+    "success": true,
+    "id": 340
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is FBXO3-DT a protein-coding gene?",
+    "answer": "No",
+    "explanation": "FBXO3-DT is classified as a long non-coding RNA (lncRNA) gene and does not encode a protein.",
+    "success": true,
+    "id": 341
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is DNAJB6P2 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "DNAJB6P2 is classified as a pseudogene, not a protein-coding gene. Pseudogenes are segments of DNA that resemble protein-coding genes but are generally non-functional and do not produce functional proteins.",
+    "success": true,
+    "id": 342
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LINC02865 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LINC02865 is classified as a long intergenic non-protein coding RNA (lincRNA) gene, meaning it does not encode a protein.",
+    "success": true,
+    "id": 343
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is AFF1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "AFF1 (AF4/FMR2 family member 1) is a protein-coding gene that encodes a nuclear protein involved in transcriptional regulation and is implicated in certain leukemias.",
+    "success": true,
+    "id": 344
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is PWWP2A a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "PWWP2A is a protein-coding gene that encodes the PWWP domain-containing protein 2A in humans.",
+    "success": true,
+    "id": 345
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is LOC105369759 a protein-coding gene?",
+    "answer": "No",
+    "explanation": "LOC105369759 is annotated as a long non-coding RNA (lncRNA) gene, not a protein-coding gene, according to NCBI Gene and other genomic databases.",
+    "success": true,
+    "id": 346
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is B3GAT1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "B3GAT1 encodes an enzyme (beta-1,3-glucuronyltransferase 1) and is classified as a protein-coding gene in major genomic databases such as NCBI Gene and Ensembl.",
+    "success": true,
+    "id": 347
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is MIR22HG a protein-coding gene?",
+    "answer": "No",
+    "explanation": "MIR22HG is not a protein-coding gene. It is classified as a long non-coding RNA (lncRNA) gene that hosts the microRNA miR-22, but does not encode a protein itself.",
+    "success": true,
+    "id": 348
+  },
+  {
+    "task": "Protein-coding genes",
+    "question": "Is CGGBP1 a protein-coding gene?",
+    "answer": "Yes",
+    "explanation": "CGGBP1 (CGG triplet repeat binding protein 1) is a protein-coding gene that encodes a protein involved in binding to CGG trinucleotide repeats.",
+    "success": true,
+    "id": 349
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1217074595 associated with?",
+    "answer": "COL4A5",
+    "explanation": "SNP rs1217074595 is located in the COL4A5 gene, which encodes the alpha-5 chain of type IV collagen. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 350
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1241371358 associated with?",
+    "answer": "FTO",
+    "explanation": "According to dbSNP and Ensembl, rs1241371358 is located within the FTO gene (Fat mass and obesity-associated protein) on chromosome 16.",
+    "success": true,
+    "id": 351
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1481036795 associated with?",
+    "answer": "FAM20C",
+    "explanation": "SNP rs1481036795 is located within the FAM20C gene according to dbSNP and other genomic databases.",
+    "success": true,
+    "id": 352
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1318850293 associated with?",
+    "answer": "SLC22A5",
+    "explanation": "SNP rs1318850293 is located within the SLC22A5 gene, which encodes a solute carrier family 22 member involved in carnitine transport.",
+    "success": true,
+    "id": 353
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs996319727 associated with?",
+    "answer": "CFTR",
+    "explanation": "SNP rs996319727 is located in the CFTR gene, which is known for its association with cystic fibrosis. This information can be verified in public SNP databases such as dbSNP and Ensembl.",
+    "success": true,
+    "id": 354
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs577757681 associated with?",
+    "answer": "HBB",
+    "explanation": "SNP rs577757681 is located in the HBB gene, which encodes the beta subunit of hemoglobin. This association can be verified in databases such as dbSNP and Ensembl.",
+    "success": true,
+    "id": 355
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1294482311 associated with?",
+    "answer": "LINC01158",
+    "explanation": "According to dbSNP and Ensembl, rs1294482311 is located within the LINC01158 gene region on chromosome 2.",
+    "success": true,
+    "id": 356
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs979970652 associated with?",
+    "answer": "COL4A1",
+    "explanation": "SNP rs979970652 is located in the COL4A1 gene, which encodes the alpha-1 chain of type IV collagen. This association can be verified in public SNP databases such as dbSNP.",
+    "success": true,
+    "id": 357
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1029002401 associated with?",
+    "answer": "No known gene association",
+    "explanation": "As of the current knowledge cutoff in June 2024, there is no publicly available information linking SNP rs1029002401 to a specific gene in major databases such as dbSNP or Ensembl.",
+    "success": true,
+    "id": 358
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1015227 associated with?",
+    "answer": "SLC6A4",
+    "explanation": "SNP rs1015227 is located in the SLC6A4 gene, which encodes the serotonin transporter. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 359
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1278530438 associated with?",
+    "answer": "IL23R",
+    "explanation": "SNP rs1278530438 is located in the interleukin 23 receptor gene (IL23R), which has been associated with various immune-related conditions in genetic studies.",
+    "success": true,
+    "id": 360
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs745325402 associated with?",
+    "answer": "COL7A1",
+    "explanation": "SNP rs745325402 is located in the COL7A1 gene, which encodes type VII collagen. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 361
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs4704888 associated with?",
+    "answer": "CDKN2B-AS1",
+    "explanation": "SNP rs4704888 is located in the CDKN2B-AS1 gene region, also known as ANRIL, on chromosome 9p21. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 362
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1201372088 associated with?",
+    "answer": "FAM20C",
+    "explanation": "According to dbSNP and Ensembl databases, rs1201372088 is a single nucleotide polymorphism located within the FAM20C gene.",
+    "success": true,
+    "id": 363
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1324451169 associated with?",
+    "answer": "LINC01158",
+    "explanation": "According to dbSNP and Ensembl, rs1324451169 is located within the LINC01158 gene region on chromosome 2.",
+    "success": true,
+    "id": 364
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs983419152 associated with?",
+    "answer": "G6PD",
+    "explanation": "SNP rs983419152 is located in the G6PD gene, which encodes glucose-6-phosphate dehydrogenase. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 365
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs745940901 associated with?",
+    "answer": "COL4A5",
+    "explanation": "SNP rs745940901 is located in the COL4A5 gene, which encodes the alpha-5 chain of type IV collagen. This association can be verified in databases such as dbSNP and Ensembl.",
+    "success": true,
+    "id": 366
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1303680136 associated with?",
+    "answer": "FAM227A",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs1303680136 is located within the FAM227A gene region.",
+    "success": true,
+    "id": 367
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1053827498 associated with?",
+    "answer": "G6PD",
+    "explanation": "According to dbSNP and other genomic databases, rs1053827498 is a single nucleotide polymorphism located in the G6PD gene (glucose-6-phosphate dehydrogenase) on the X chromosome.",
+    "success": true,
+    "id": 368
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1350154096 associated with?",
+    "answer": "HBB",
+    "explanation": "SNP rs1350154096 is located in the HBB gene, which encodes the beta subunit of hemoglobin. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 369
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1037441458 associated with?",
+    "answer": "KCNQ1",
+    "explanation": "SNP rs1037441458 is located within the KCNQ1 gene, which is known to be associated with various traits and conditions, including those related to cardiac function. This association can be verified in public databases such as dbSNP and Ensembl.",
+    "success": true,
+    "id": 370
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs900408143 associated with?",
+    "answer": "SLC6A4",
+    "explanation": "SNP rs900408143 is located in the SLC6A4 gene, which encodes the serotonin transporter. This association is based on dbSNP and genomic annotation databases.",
+    "success": true,
+    "id": 371
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs900532834 associated with?",
+    "answer": "COL7A1",
+    "explanation": "SNP rs900532834 is located in the COL7A1 gene, which encodes type VII collagen. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 372
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1281200566 associated with?",
+    "answer": "KCNJ18",
+    "explanation": "SNP rs1281200566 is located within the KCNJ18 gene according to dbSNP and genomic databases.",
+    "success": true,
+    "id": 373
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1431266687 associated with?",
+    "answer": "SLC22A24",
+    "explanation": "SNP rs1431266687 is located within the SLC22A24 gene according to dbSNP and other genomic databases.",
+    "success": true,
+    "id": 374
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs900745020 associated with?",
+    "answer": "SLC22A12",
+    "explanation": "SNP rs900745020 is located in the SLC22A12 gene, which encodes a urate transporter. This association can be confirmed by querying public SNP databases such as dbSNP or Ensembl.",
+    "success": true,
+    "id": 375
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1188606225 associated with?",
+    "answer": "KCNJ6",
+    "explanation": "According to dbSNP and other genomic databases, rs1188606225 is located within the KCNJ6 gene.",
+    "success": true,
+    "id": 376
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs902730377 associated with?",
+    "answer": "SLC45A2",
+    "explanation": "SNP rs902730377 is located in the SLC45A2 gene, which is known to be associated with pigmentation traits in various species.",
+    "success": true,
+    "id": 377
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1044115387 associated with?",
+    "answer": "LINC01194",
+    "explanation": "According to dbSNP and Ensembl, rs1044115387 is located within the LINC01194 gene region on chromosome 10.",
+    "success": true,
+    "id": 378
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs979980368 associated with?",
+    "answer": "G6PC",
+    "explanation": "SNP rs979980368 is located in the G6PC gene, which encodes glucose-6-phosphatase catalytic subunit. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 379
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1161130206 associated with?",
+    "answer": "SLC22A5",
+    "explanation": "According to dbSNP and Ensembl, rs1161130206 is a single nucleotide polymorphism located in the SLC22A5 gene, which encodes a solute carrier protein involved in carnitine transport.",
+    "success": true,
+    "id": 380
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs910422326 associated with?",
+    "answer": "G6PD",
+    "explanation": "SNP rs910422326 is a variant in the G6PD gene, which encodes glucose-6-phosphate dehydrogenase. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 381
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1035892430 associated with?",
+    "answer": "FBN1",
+    "explanation": "SNP rs1035892430 is located in the FBN1 gene, which encodes fibrillin-1. This association can be found in dbSNP and other genomic variant databases.",
+    "success": true,
+    "id": 382
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1255093658 associated with?",
+    "answer": "G6PD",
+    "explanation": "SNP rs1255093658 is located in the G6PD gene, which encodes glucose-6-phosphate dehydrogenase. This association can be verified in public SNP databases such as dbSNP.",
+    "success": true,
+    "id": 383
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1257276516 associated with?",
+    "answer": "LINC01237",
+    "explanation": "According to dbSNP and Ensembl databases, SNP rs1257276516 is located within the LINC01237 gene region.",
+    "success": true,
+    "id": 384
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs563369098 associated with?",
+    "answer": "SLC30A8",
+    "explanation": "SNP rs563369098 is located in the SLC30A8 gene, which encodes a zinc transporter and has been studied in relation to diabetes risk.",
+    "success": true,
+    "id": 385
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1032834815 associated with?",
+    "answer": "F8",
+    "explanation": "SNP rs1032834815 is located in the F8 gene, which encodes coagulation factor VIII. This association can be confirmed by querying dbSNP and Ensembl databases.",
+    "success": true,
+    "id": 386
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs552952471 associated with?",
+    "answer": "G6PC",
+    "explanation": "SNP rs552952471 is located in the G6PC gene, which encodes glucose-6-phosphatase catalytic subunit. This association can be found in dbSNP and other genomic variant databases.",
+    "success": true,
+    "id": 387
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1452964195 associated with?",
+    "answer": "KCNJ6",
+    "explanation": "SNP rs1452964195 is located within the KCNJ6 gene, according to dbSNP and genomic annotation databases.",
+    "success": true,
+    "id": 388
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs949202492 associated with?",
+    "answer": "SLC22A5",
+    "explanation": "SNP rs949202492 is located within the SLC22A5 gene, which encodes a solute carrier family 22 member involved in carnitine transport.",
+    "success": true,
+    "id": 389
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1218214598 associated with?",
+    "answer": "COL4A1",
+    "explanation": "SNP rs1218214598 is located within the COL4A1 gene, which encodes the alpha-1 chain of type IV collagen. This association is based on genomic mapping data from dbSNP and other genomic resources.",
+    "success": true,
+    "id": 390
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1022906840 associated with?",
+    "answer": "HLA-DQA1",
+    "explanation": "SNP rs1022906840 is located within the HLA-DQA1 gene, which is part of the human leukocyte antigen (HLA) complex on chromosome 6.",
+    "success": true,
+    "id": 391
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1199372758 associated with?",
+    "answer": "FTO",
+    "explanation": "SNP rs1199372758 is located within the FTO gene, which is known for its association with body mass index and obesity-related traits.",
+    "success": true,
+    "id": 392
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1396355441 associated with?",
+    "answer": "LINC01149",
+    "explanation": "According to dbSNP and Ensembl, rs1396355441 is located within the LINC01149 gene region on chromosome 2.",
+    "success": true,
+    "id": 393
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1432624213 associated with?",
+    "answer": "SLC22A24",
+    "explanation": "SNP rs1432624213 is located within the SLC22A24 gene according to dbSNP and other genomic databases.",
+    "success": true,
+    "id": 394
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs937944577 associated with?",
+    "answer": "HBB",
+    "explanation": "SNP rs937944577 is located in the HBB gene, which encodes the beta subunit of hemoglobin. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 395
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1450106117 associated with?",
+    "answer": "FAM20C",
+    "explanation": "SNP rs1450106117 is located within the FAM20C gene according to dbSNP and genomic databases.",
+    "success": true,
+    "id": 396
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs34083046 associated with?",
+    "answer": "FTO",
+    "explanation": "SNP rs34083046 is located within the FTO gene, which is known for its association with body mass index and obesity-related traits.",
+    "success": true,
+    "id": 397
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs149916046 associated with?",
+    "answer": "G6PC",
+    "explanation": "SNP rs149916046 is located in the G6PC gene, which encodes glucose-6-phosphatase catalytic subunit. This association is supported by dbSNP and other genomic databases.",
+    "success": true,
+    "id": 398
+  },
+  {
+    "task": "Gene SNP association",
+    "question": "Which gene is SNP rs1385096481 associated with?",
+    "answer": "SLC22A1",
+    "explanation": "According to dbSNP and other genomic databases, rs1385096481 is a single nucleotide polymorphism located in the SLC22A1 gene.",
+    "success": true,
+    "id": 399
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1430464868 locate on human genome?",
+    "answer": "Chromosome 6",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs1430464868 is located on chromosome 6 in the human genome.",
+    "success": true,
+    "id": 400
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs545148486 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs545148486 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 401
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs895485955 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs895485955 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 402
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1376217783 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1376217783 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 403
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1420724913 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and genomic databases, rs1420724913 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 404
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs992486373 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs992486373 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 405
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs975300764 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs975300764 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 406
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs993131098 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs993131098 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 407
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs899883800 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs899883800 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 408
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs547832386 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs547832386 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 409
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1212113267 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and genomic databases, rs1212113267 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 410
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1435895561 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs1435895561 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 411
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs427884 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs427884 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 412
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1188706680 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1188706680 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 413
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1316126938 locate on human genome?",
+    "answer": "Chromosome 2",
+    "explanation": "According to dbSNP and genomic databases, rs1316126938 is located on chromosome 2 in the human genome.",
+    "success": true,
+    "id": 414
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1398189587 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs1398189587 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 415
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1372020525 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1372020525 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 416
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs188137472 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs188137472 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 417
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1246801490 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1246801490 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 418
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs983633514 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs983633514 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 419
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1274126968 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, the SNP rs1274126968 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 420
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1392348488 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs1392348488 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 421
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs965556407 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs965556407 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 422
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs999510594 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs999510594 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 423
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1412275115 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1412275115 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 424
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs951388492 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs951388492 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 425
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs967011458 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs967011458 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 426
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs555675816 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs555675816 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 427
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1333853138 locate on human genome?",
+    "answer": "Chromosome 6",
+    "explanation": "According to dbSNP and other genomic databases, rs1333853138 is located on chromosome 6 in the human genome.",
+    "success": true,
+    "id": 428
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs910383316 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs910383316 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 429
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs563617526 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs563617526 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 430
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1357251061 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1357251061 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 431
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1401416674 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, the SNP rs1401416674 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 432
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs76491275 locate on human genome?",
+    "answer": "chromosome 2",
+    "explanation": "According to dbSNP and other genomic databases, rs76491275 is located on chromosome 2 in the human genome.",
+    "success": true,
+    "id": 433
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs141272872 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, SNP rs141272872 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 434
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1281763211 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs1281763211 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 435
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1278117191 locate on human genome?",
+    "answer": "chromosome 6",
+    "explanation": "According to dbSNP and other genomic databases, rs1278117191 is located on chromosome 6 in the human genome.",
+    "success": true,
+    "id": 436
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1239675264 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs1239675264 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 437
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs866998836 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs866998836 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 438
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1228002921 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs1228002921 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 439
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs976400036 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs976400036 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 440
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs397784008 locate on human genome?",
+    "answer": "chromosome 17",
+    "explanation": "SNP rs397784008 is located on chromosome 17 in the human genome, as referenced in dbSNP and clinical variant databases.",
+    "success": true,
+    "id": 441
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1170945868 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, the SNP rs1170945868 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 442
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs990783431 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs990783431 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 443
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1041819671 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1041819671 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 444
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs139642661 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs139642661 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 445
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1263053296 locate on human genome?",
+    "answer": "chromosome 1",
+    "explanation": "According to dbSNP and other genomic databases, rs1263053296 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 446
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1391145256 locate on human genome?",
+    "answer": "chromosome 2",
+    "explanation": "According to dbSNP and Ensembl databases, rs1391145256 is located on chromosome 2 in the human genome.",
+    "success": true,
+    "id": 447
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs1002944049 locate on human genome?",
+    "answer": "Chromosome 2",
+    "explanation": "According to dbSNP and other genomic databases, rs1002944049 is located on chromosome 2 in the human genome.",
+    "success": true,
+    "id": 448
+  },
+  {
+    "task": "SNP location",
+    "question": "Which chromosome does SNP rs962314907 locate on human genome?",
+    "answer": "Chromosome 1",
+    "explanation": "According to dbSNP and Ensembl databases, rs962314907 is located on chromosome 1 in the human genome.",
+    "success": true,
+    "id": 449
+  }
+]
